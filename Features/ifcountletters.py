@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+from collections import Counter
 import numpy as np
 
 def ifcountletters(a):
