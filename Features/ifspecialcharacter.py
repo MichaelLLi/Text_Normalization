@@ -6,7 +6,6 @@ Created on Thu Sep 20 13:36:53 2017
 @author: timschutzlkord
 """
 
-from collections import Counter
 import numpy as np
  
 def ifspecialcharacter(a):
