@@ -4,13 +4,13 @@ import numpy as np
 
 def ifcountletters(a):
     # accept input argument as numpy array of n rows and 3 columns
-    output=np.array(shape=(np.shape[1],24))
+    output=np.array(shape=(np.shape(a)[1],24))
     next_element=np.append(a[1:,3],"abc")
     this_element=a[:,3]
     previous_element=np.insert(a[:-1,3],0,"abc")
     letters=np.array(['aA','eE','iI','oO','uU',"aAeEiIoOuU","qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM"])
     for i in range(1,7):
-        for j in range(1,np.shape[1]):
+        for j in range(1,np.shape(a)[1]):
             cnt1=Counter(previous_element[j])
             cnt2=Counter(this_element[j])
             cnt3=Counter(next_element[j])

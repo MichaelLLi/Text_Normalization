@@ -4,7 +4,7 @@ import enchant
 def ifenglishorword(a):
     # accept input argument as numpy array of n rows and 3 columns
     d,e,f=enchant.Dict("en_US"), enchant.Dict("en_GB"), enchant.Dict("en_AU")
-    output=np.array(shape=(np.shape[1],6))
+    output=np.array(shape=(np.shape(a)[1],6))
     next_element=np.append(a[1:,3],"abc")
     this_element=a[:,3]
     previous_element=np.insert(a[:-1,3],0,"abc")
