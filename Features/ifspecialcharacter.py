@@ -14,10 +14,10 @@ def ifspecialcharacter(a):
     next_element=np.append(a[1:,3],"abc")
     this_element=a[:,3]
     previous_element=np.insert(a[:-1,3],0,"abc")
-    notspecialcharacter=np.array(['QWERTYUIOPASDFGHJKLZXCVBNMqwertyuiopasdfghjklzxcvbnm0123456789'])
+    notspecialcharacter='QWERTYUIOPASDFGHJKLZXCVBNMqwertyuiopasdfghjklzxcvbnm0123456789'
     for j in range(1,np.shape(a)[1]):
         isstrenglength1_this_element[j]=int(len(this_element[j])==1)
-        isspecialcharacter_this_element[j]=int(not(this_element[j] in notspecialcharacter[0]))
+        isspecialcharacter_this_element[j]=int(not(this_element[j] in notspecialcharacter))
         output[j,1]=a[j,1]
         output[j,2]=a[j,2]
         output[j,3]=isstrenglength1_this_element[j]*isspecialcharacter[j]
