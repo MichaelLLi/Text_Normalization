@@ -18,7 +18,7 @@ def numberofcommas(a):
     for j in range(1,np.shape(a)[1]):
         count = 0
         for k in range(1,len(this_element[j-1])):
-            if this_element[j-1][k-1] in comma:
+            if this_element[j-1][k-1] in comma[0]:
                 count = count +1
         output[j-1,1]=a[j-1,1]
         output[j-1,2]=a[j-1,2]
