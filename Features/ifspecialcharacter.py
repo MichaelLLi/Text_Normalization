@@ -3,7 +3,7 @@
 """
 Created on Thu Sep 20 13:36:53 2017
 
-@author: timschutzlkord
+@author: timschutzlkord, based on Michael's script
 """
 
 import numpy as np
