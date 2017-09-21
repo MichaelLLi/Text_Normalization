@@ -20,9 +20,9 @@ def ismixofnumberandletter(a):
         countnumbers=0
         countletters=0
         for k in range(1,len(this_element[j-1])):
-            if this_element[j-1][k-1] in numbers:
+            if this_element[j-1][k-1] in numbers[0]:
                 countnumbers=countnumbers+1
-            if this_element[j-1][k-1] in letters:
+            if this_element[j-1][k-1] in letters[0]:
                 countletters=countletters+1
         output[j,1]=a[j,1]
         output[j,2]=a[j,2]
