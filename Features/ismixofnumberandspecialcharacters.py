@@ -3,7 +3,7 @@
 """
 Created on Wed Sep 20 21:37:05 2017
 
-@author: timschutzlkord
+@author: timschutzlkord, based on Michael's script
 """
 
 
