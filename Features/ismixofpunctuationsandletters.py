@@ -3,7 +3,7 @@
 """
 Created on Wed Sep 20 21:16:10 2017
 
-@author: timschutzlkord, based on Michael's script.
+@author: timschutzlkord
 """
 
 import numpy as np
@@ -35,6 +35,6 @@ def ismixofpunctuationsandletters(a):
     return output
     
 test=test.values
-output=ismixoflettersandspecialcharacters(test)
+output=ismixofpunctuationsandletters(test)
 output
 output1 = pd.DataFrame(output)
