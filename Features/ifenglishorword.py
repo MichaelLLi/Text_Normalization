@@ -4,7 +4,7 @@ import enchant
 def ifenglishorword(a):
     # accept input argument as numpy array of n rows and 3 columns
     d,e,f=enchant.Dict("en_US"), enchant.Dict("en_GB"), enchant.Dict("en_AU")
-    output=np.zeros(shape=(np.shape(a)[0],6))
+    output=np.zeros(shape=(np.shape(a)[0],9))
     next_element=np.append(a[1:,2],'abc')
     this_element=a[:,2]
     previous_element=np.insert(a[:-1,2],0,'abc')
@@ -16,6 +16,9 @@ def ifenglishorword(a):
         output[i,3]=np.logical_or(output[i,0],np.logical_or(g.check(previous_element[i]), h.check(previous_element[i])))
         output[i,4]=np.logical_or(output[i,1],np.logical_or(g.check(this_element[i]), h.check(this_element[i])))
         output[i,5]=np.logical_or(output[i,2],np.logical_or(g.check(next_element[i]), h.check(next_element[i])))    
+        output[i,6]=d.check(previous_element[i])
+        output[i,7]=d.check(this_element[i])
+        output[i,8]=d.check(next_element[i])
     return output
 
 
