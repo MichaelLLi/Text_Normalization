@@ -6,10 +6,6 @@ Created on Mon Oct  2 20:44:13 2017
 @author: timschutzlkord
 """
 
-import numpy as np
-import pandas as pd
-test = pd.read_csv('en_train_lim.csv') 
-
 def ifcommafollowedbynumber(a):
     # accept input argument as numpy array of n rows and 3 columns
     output=np.zeros(shape=(np.shape(a)[0],3))
@@ -27,9 +23,3 @@ def ifcommafollowedbynumber(a):
         output[j-1,1]=a[j-1,1]
         output[j-1,2]=identifier
     return output
-    
-test=test.values
-output=ifcommafollowedbynumber(test)
-output
-output1 = pd.DataFrame(output)
-output1.to_csv('output1.csv')
