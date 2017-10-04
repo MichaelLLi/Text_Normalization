@@ -5,12 +5,6 @@ Created on Wed Oct  4 13:07:09 2017
 
 @author: timschutzlkord
 """
-
-import numpy as np
-import pandas as pd
-## test = pd.read_csv('en_train_lim.csv') 
-test = pd.read_csv('en_train.csv') 
-
 def ifwebsite(a):
     # accept input argument as numpy array of n rows and 3 columns
     output=np.zeros(shape=(np.shape(a)[0],3))
@@ -69,9 +63,3 @@ def ifwebsite(a):
         else:
             output[j-1,2]=0
     return output
-    
-test=test.values[:,[0,1,3]]
-output=ifwebsite(test)
-output
-output1 = pd.DataFrame(output)
-output1.to_csv('output1.csv')
