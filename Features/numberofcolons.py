@@ -5,11 +5,6 @@ Created on Mon Oct  2 20:04:13 2017
 
 @author: timschutzlkord
 """
-
-import numpy as np
-import pandas as pd
-test = pd.read_csv('en_train_lim.csv') 
-
 def numberofcolons(a):
     # accept input argument as numpy array of n rows and 3 columns
     output=np.zeros(shape=(np.shape(a)[0],3))
@@ -26,9 +21,3 @@ def numberofcolons(a):
         output[j-1,1]=a[j-1,1]
         output[j-1,2]=count
     return output
-    
-test=test.values
-output=numberofcolons(test)
-output
-output1 = pd.DataFrame(output)
-output1.to_csv('output1.csv')
