@@ -19,14 +19,18 @@ def ifallnumbers(a):
     for j in range(np.shape(a)[0]):
         cnt_next=Counter(str(next_element[j]))
         cnt_this=Counter(str(this_element[j]))
-        cnt_prev=Counter(str(previous_element[j]))          
+        cnt_prev=Counter(str(previous_element[j]))
+        nxt=str(next_element[j])[0]
+        ths=str(this_element[j])[0]
+        prev=str(previous_element[j])[0]
         output[j,0]=int(sum(cnt_next[x] for x in numbers)==len(str(next_element[j])))
         output[j,1]=int(sum(cnt_this[x] for x in numbers)==len(str(this_element[j])))
         output[j,2]=int(sum(cnt_prev[x] for x in numbers)==len(str(previous_element[j])))
+        # Take into account of e.g. 1,965 and 5.62 but exclude commas and periods
+        if((nxt in ',.')&(len(str(next_element[j]))==1)):
+            output[j,0]=0
+        if((ths in ',.')&(len(str(this_element[j]))==1)):
+            output[j,1]=0
+        if((prev in ',.')&(len(str(previous_element[j]))==1)):
+            output[j,2]=0
     return output
-
-test=test.values
-output=ifallnumbers(test)
-output
-output1 = pd.DataFrame(output)
-output1.to_csv('output1_2.csv')
