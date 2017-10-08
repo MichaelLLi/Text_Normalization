@@ -19,11 +19,8 @@ def ifallcaps(a):
     for j in range(np.shape(a)[0]):
         cnt_next=Counter(str(next_element[j]))
         cnt_this=Counter(str(this_element[j]))
-        cnt_prev=Counter(str(previous_element[j]))
-        # for k in range(len(str(this_element[j]))):
-           # if str(this_element[j])[k] in caps:
-              # count=count+1            
-        output[j,0]=int(sum(cnt_next[x] for x in caps)==len(cnt_next))
-        output[j,1]=int(sum(cnt_this[x] for x in caps)==len(cnt_this))
-        output[j,2]=int(sum(cnt_prev[x] for x in caps)==len(cnt_prev))
+        cnt_prev=Counter(str(previous_element[j]))           
+        output[j,0]=int(sum(cnt_next[x] for x in caps)==len(str(next_element[j])))
+        output[j,1]=int(sum(cnt_this[x] for x in caps)==len(str(this_element[j])))
+        output[j,2]=int(sum(cnt_prev[x] for x in caps)==len(str(previous_element[j])))
     return output
