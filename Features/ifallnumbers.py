@@ -16,6 +16,8 @@ def ifallnumbers(a):
     this_element=a[:,2]
     previous_element=np.insert(a[:-1,2],0,"abc")
     numbers='0123456789,.'
+    negsign='-'
+    numbersplusnegsign='0123456789,.-'
     for j in range(np.shape(a)[0]):
         cnt_next=Counter(str(next_element[j]))
         cnt_this=Counter(str(this_element[j]))
@@ -33,4 +35,11 @@ def ifallnumbers(a):
             output[j,1]=0
         if((prev in ',.')&(len(str(previous_element[j]))==1)):
             output[j,2]=0
+        # We want to keep the negative sign only at the beginning: 
+        if((nxt in negsign)&(len(str(next_element[j]))>1)&(sum(cnt_next[x] for x in negsign)==1)&(sum(cnt_next[x] for x in numbersplusnegsign)==len(str(next_element[j])))):
+            output[j,0]=1
+        if((ths in negsign)&(len(str(this_element[j]))>1)&(sum(cnt_this[x] for x in negsign)==1)&(sum(cnt_this[x] for x in numbersplusnegsign)==len(str(this_element[j])))):
+            output[j,1]=1
+        if((prev in negsign)&(len(str(previous_element[j]))>1)&(sum(cnt_prev[x] for x in negsign)==1)&(sum(cnt_prev[x] for x in numbersplusnegsign)==len(str(previous_element[j])))):
+            output[j,2]=1
     return output
