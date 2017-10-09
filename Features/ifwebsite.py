@@ -22,8 +22,6 @@ def ifwebsite(a):
         identifier = 0
         countspace = 0
         countnumber = 0
-        output[j-1,0]=a[j-1,0]
-        output[j-1,1]=a[j-1,1]
         # identifierdotstart = 0
         identifierdotend = 0
         # Pattern .sth
@@ -59,7 +57,11 @@ def ifwebsite(a):
         if((str(this_element[j-1])[0:5]=='http:')|(str(this_element[j-1])[0:6]=='https:')|(str(this_element[j-1])[0:4]=='www.')):
             identifier = 1            
         if(identifier==1)&(countspace==0)&(identifierdotend==0):
-            output[j-1,2]=1
+            output[j-1,1]=1
         else:
-            output[j-1,2]=0
+            output[j-1,1]=0
+    for l in range(2,np.shape(a)[0]+1):
+        output[l-1,2]=output[l-2,1]
+    for m in range(1,np.shape(a)[0]):
+        output[m-1,0]=output[m,1]
     return output
