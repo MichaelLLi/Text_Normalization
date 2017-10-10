@@ -12,12 +12,11 @@ def numberofcolons(a):
     this_element=a[:,2]
     previous_element=np.insert(a[:-1,2],0,"abc")
     colon=':'
-    for j in range(1,np.shape(a)[0]+1):
-        count = 0
-        for k in range(1,len(str(this_element[j-1]))+1):
-            if str(this_element[j-1])[k-1] in colon:
-                count = count +1
-        output[j-1,0]=a[j-1,0]
-        output[j-1,1]=a[j-1,1]
-        output[j-1,2]=count
+    for j in range(np.shape(a)[0]):
+        cnt_next = Counter(str(next_element[j]))
+        cnt_this = Counter(str(this_element[j]))
+        cnt_prev = Counter(str(previous_element[j]))
+        output[j,0]=sum(cnt_next[x] for x in colon)
+        output[j,1]=sum(cnt_this[x] for x in colon)
+        output[j,2]=sum(cnt_prev[x] for x in colon)
     return output
