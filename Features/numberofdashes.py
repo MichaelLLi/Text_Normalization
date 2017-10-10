@@ -7,7 +7,7 @@ Created on Mon Oct  2 20:39:02 2017
 """
 
 import numpy as np
-def numberofcommas(a):
+def numberofdashes(a):
     # accept input argument as numpy array of n rows and 3 columns
     output=np.zeros(shape=(np.shape(a)[0],3))
     next_element=np.append(a[1:,2],"abc")
