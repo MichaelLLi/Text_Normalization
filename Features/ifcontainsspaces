@@ -8,8 +8,6 @@ Created on Fri Nov  3 13:59:19 2017
 
 from collections import Counter
 import numpy as np
-import pandas as pd
-test = pd.read_csv('en_train.csv')
 
 def ifcontainsspaces(a):
     # accept input argument as numpy array of n rows and 3 columns
@@ -26,9 +24,3 @@ def ifcontainsspaces(a):
         output[j,1]=int(sum(cnt_this[x] for x in space) > 0)
         output[j,2]=int(sum(cnt_prev[x] for x in space) > 0)
     return output
-    
-test1=test.values[:,[0,1,3]]
-output=ifcontainsspaces(test1)
-output1 = pd.DataFrame(output)
-output1.columns = ['if_next_contains_space','if_this_contains_space','if_prev_contains_space']
-output1.to_csv('output_train_24.csv')
