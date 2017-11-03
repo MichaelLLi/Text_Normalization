@@ -6,7 +6,7 @@ def ifpunctuation(a):
     next_element=np.append(a[1:,2],"abc")
     this_element=a[:,2]
     previous_element=np.insert(a[:-1,2],0,"abc")
-    punctuations=',.!? :;\'\"'
+    punctuations=',.!? :;\'\"[]/()《》'
     for j in range(np.shape(a)[0]):         
         output[j,0]=int(len(str(next_element[j]))==1&(str(next_element[j])[0] in punctuations))
         output[j,1]=int(len(str(this_element[j]))==1&(str(this_element[j])[0] in punctuations))
