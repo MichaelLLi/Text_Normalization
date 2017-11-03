@@ -17,7 +17,7 @@ def ismixofnumberandpunctuations(a):
     this_element=a[:,2]
     previous_element=np.insert(a[:-1,2],0,"abc")
     numbers='0123456789'
-    punctuations=',.-_()+!? :;[]\'\"/'
+    punctuations=',.!? :;\'\"[]/()《》'
     for j in range(1,np.shape(a)[0]+1):
         countnumbers=0
         countpunctuations=0
