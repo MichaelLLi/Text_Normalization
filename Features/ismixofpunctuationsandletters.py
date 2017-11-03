@@ -14,7 +14,7 @@ def ismixofpunctuationsandletters(a):
     next_element=np.append(a[1:,2],"abc")
     this_element=a[:,2]
     previous_element=np.insert(a[:-1,2],0,"abc")
-    punctuations=',.!? :;\'\"'
+    punctuations=',.!? :;\'\"[]/()《》'
     letters='QWERTYUIOPASDFGHJKLZXCVBNMqwertyuiopasdfghjklzxcvbnm'
     for j in range(1,np.shape(a)[0]+1):
         countpunctuations=0
