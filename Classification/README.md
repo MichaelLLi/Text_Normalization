@@ -12,5 +12,3 @@ All of our manually generated features are contained in two modules: features64 
 The main model used was Gradient Boosted Trees. We used ASCII sequence encoding to let GBM discover its own features, but also assisted it by adding our features through features64 and features32. 
 
 The final model parameters used are detailed in the python file as modelV3 and modelV2.
-
-
