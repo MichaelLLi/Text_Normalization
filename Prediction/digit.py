@@ -3,7 +3,8 @@ from num2words import num2words
 import numpy as np
 
 def digit(a):
-    output= np.empty(shape=(len(a),1),dtype=object)
+    # output= np.empty(shape=(len(a),1),dtype=object)
+    output=['AAAis is wrong!'] * len(a)
     for i in range(len(a)):
         try:
             word=str(a[i])
