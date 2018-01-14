@@ -12,7 +12,6 @@ def verbatim(a):
     special = {'#':'number','&':'and','$':'dollar','€':'euro','_':'underscore','%':'percent','~':'tilde','²':'squared', '³':'cubed', '>':'greater than', '<': 'less than', '=':'equals', '*':'asterisk','florida': 'florida'}
     for j in range(len(a)):
         try:
-            # output[j] = ' '.join(inputverbatim[j]) 
             output[j] = inputverbatim[j]
             if (str(output[j])[0] == '.'):
                 output[j] = ' '.join(output[j]) 
