@@ -1,0 +1,864 @@
+class,before,after
+MEASURE,m,meters
+MEASURE,km,kilometers
+MEASURE,%,percent
+MEASURE,GB,gigabyte
+MEASURE,/km2,per square kilometers
+MEASURE,mi,miles
+MEASURE,/km²,per square kilometers
+MEASURE,ft,feet
+MEASURE,kg,kilograms
+MEASURE,lb,pounds
+MEASURE,km2,square kilometers
+MEASURE,sq mi,square miles
+MEASURE,mph,miles per hour
+MEASURE,km/h,kilometers per hour
+MEASURE,nm,nanometers
+MEASURE,ha,hectares
+MEASURE,km²,square kilometers
+MEASURE,mL,milliliters
+MEASURE,mm,millimeters
+MEASURE,m³/s,cubic meters per second
+MEASURE,percent,percent
+MEASURE,lbs,pounds
+MEASURE,cc,c c
+MEASURE,ch,chains
+MEASURE,hp,horsepower
+MEASURE,kW,kilowatts
+MEASURE,cm,centimeters
+MEASURE,yd,yards
+MEASURE,/h,per hour
+MEASURE,m2,square meters
+MEASURE,MW,megawatts
+MEASURE,"""",inches
+MEASURE,hrs,hours
+MEASURE,per km2,per square kilometer
+MEASURE,/m,per meter
+MEASURE,m3,cubic meters
+MEASURE,',feet
+MEASURE,mA,milli amperes
+MEASURE,per km²,per square kilometer
+MEASURE,KB,kilobytes
+MEASURE,ml,milliliters
+MEASURE,TB,terabytes
+MEASURE,KC,kilo coulombs
+MEASURE,Gs,giga seconds
+MEASURE,MB,megabytes
+MEASURE,pH,pico henrys
+MEASURE,sq ft,square feet
+MEASURE,MHz,megahertz
+MEASURE,rpm,revolutions per minute
+MEASURE,in,and a half inches
+MEASURE,GHz,gigahertz
+MEASURE,kph,kilometers per hour
+MEASURE,mg,milligrams
+MEASURE,μg,micrograms
+MEASURE,kV,kilo volts
+MEASURE,Hz,hertz
+MEASURE,μm,micrometers
+MEASURE,ft/s,foot per second
+MEASURE,Km,kilometers
+MEASURE,g,grams
+MEASURE,kB,kilobytes
+MEASURE,yr,years
+MEASURE,kcal/mol,kilo calories per mole
+MEASURE,pc,percent
+MEASURE,MPa,megapascals
+MEASURE,atm,atmospheres
+MEASURE,cwt,weight
+MEASURE,m²,square meters
+MEASURE,/mi²,per square miles
+MEASURE,/year,per year
+MEASURE,V,volts
+MEASURE,yrs,years
+MEASURE,m/h,meters per hour
+MEASURE,Ms,mega seconds
+MEASURE,/s,per second
+MEASURE,cd,candelas
+MEASURE,mV,milli volts
+MEASURE,μs,microseconds
+MEASURE,KA,kilo amperes
+MEASURE,kN,kilonewtons
+MEASURE,GL,giga liters
+MEASURE,PW,peta watts
+MEASURE,TWh,tera watt hours
+MEASURE,ft/min,foot per minute
+MEASURE,GW,gigawatts
+MEASURE,m/s,meters per second
+MEASURE,bar,bars
+MEASURE,kHz,kilohertz
+MEASURE,Pg,peta grams
+MEASURE,MN,mega newtons
+MEASURE,oz,ounces
+MEASURE,mi²,square miles
+MEASURE,/kg,per kilogram
+MEASURE,ks,kilo seconds
+MEASURE,AU,astronomical units
+MEASURE,Mb,megabits
+MEASURE,hr,hour
+MEASURE,kWh,kilo watt hours
+MEASURE,meters/second,meters per second
+MEASURE,/m3,per cubic meter
+MEASURE,mAh,milli amp hours
+MEASURE,TL,tera liters
+MEASURE,cal,cal
+MEASURE,g/cm3,grams per c c
+MEASURE,/day,per day
+MEASURE,st,stone
+MEASURE,Da,daltons
+MEASURE,Sv,sieverts
+MEASURE,Mbps,megabits per second
+MEASURE,mg/kg,milligrams per kilogram
+MEASURE,m3/s,cubic meters per second
+MEASURE,kg/m3,kilograms per cubic meter
+MEASURE,Gb,gigabits
+MEASURE,kgf,kilograms force
+MEASURE,m³,cubic meters
+MEASURE,Mhz,megahertz
+MEASURE,kb,kilobits
+MEASURE,ms,milliseconds
+MEASURE,MC,mega coulombs
+MEASURE,/mm,per millimeter
+MEASURE,dB,decibels
+MEASURE,per m2,per square meter
+MEASURE,degrees C,degrees celsius
+MEASURE,Wh,watt hours
+MEASURE,dA,deci amperes
+MEASURE,dm,deci meter
+MEASURE,MB/s,megabytes per second
+MEASURE,eV,electron volts
+MEASURE,ML,mega liters
+MEASURE,GWh,giga watt hours
+MEASURE,liters/second,liters per second
+MEASURE,km3,cubic kilometers
+MEASURE,/month,per month
+MEASURE,tons/hour,tons per hour
+MEASURE,km/km2,kilometers per square kilometer
+MEASURE,sq,square
+MEASURE,MA,mega amperes
+MEASURE,cm2,square centimeters
+MEASURE,TW,tera watts
+MEASURE,kg/m²,kilograms per square meter
+MEASURE,MV,mega volts
+MEASURE,/second,per second
+MEASURE,nl,nano liters
+MEASURE,kl,kilo liters
+MEASURE,/cm,per centimeter
+MEASURE,Pb,peta bits
+MEASURE,Pa,pascals
+MEASURE,mi2,square miles
+MEASURE,hz,hertz
+MEASURE,kJ/mol,kilo joule per mole
+MEASURE,hl,hecto liters
+MEASURE,Gm,giga meters
+MEASURE,kt,knots
+MEASURE,PN,ninths of a peta newton
+MEASURE,Klm,kilo lumens
+MEASURE,gal,gallons
+MEASURE,mbar,millibars
+MEASURE,kPa,kilopascals
+MEASURE,bbl,barrels
+MEASURE,/mi2,per square miles
+MEASURE,mHz,milli hertz
+MEASURE,KV,kilo volts
+MEASURE,MJ,mega joules
+MEASURE,Ω,ohms
+MEASURE,KW,kilowatts
+MEASURE,mm M,millimeters
+MEASURE,Nm,newton meters
+MEASURE,h,hours
+MEASURE,s,seconds
+MEASURE,mg/m3,milligrams per cubic meter
+MEASURE,Ps,peta seconds
+MEASURE,mm2,square millimeters
+MEASURE,kg/m,kilograms per meter
+MEASURE,kts,knots
+MEASURE,/minute,per minute
+MEASURE,ly,light years
+MEASURE,per Kg,per kilogram
+MEASURE,Kb,kilobits
+MEASURE,Ts,tera seconds
+MEASURE,KHz,kilohertz
+MEASURE,GPa,giga pascals
+MEASURE,kWh/kg,kilo watt hours per kilogram
+MEASURE,MWh,mega watt hours
+MEASURE,Bq/m3,becquerels per cubic meter
+MEASURE,g/kg,grams per kilogram
+MEASURE,kA,kilo amperes
+MEASURE,dF,deci farads
+MEASURE,kJ/kg,kilo joules per kilogram
+MEASURE,Mg,mega grams
+MEASURE,km M,kilometers
+MEASURE,Ks,kilo seconds
+MEASURE,Gb/s,gigabits per second
+MEASURE,million km,sil
+MEASURE,KiB,sil
+MEASURE,MiB,sil
+MEASURE,million/kg,sil
+MEASURE,million tonnes/year,sil
+MEASURE,GiB,sil
+MEASURE,million m³,sil
+MEASURE,billion m3,sil
+MEASURE,million yrs,sil
+MEASURE,million ft,sil
+MEASURE,million oz,sil
+MEASURE,thousand kg,sil
+MEASURE,billion kWh,sil
+MEASURE,million MJ,sil
+MEASURE,Bq,becquerel
+MEASURE,m³ / s,cubic meters per second
+MEASURE,mm²,square millimeters
+MEASURE,kgf/cm2,kilograms force per square centimeter
+MEASURE,million km2,sil
+MEASURE,Tl,tera liters
+MEASURE,PB,peta bytes
+MEASURE,cm M,centimeters
+MEASURE,hL,hecto liters
+MEASURE,km/s,kilometers per second
+MEASURE,kbps,kilobits per second
+MEASURE,/g,per gram
+MEASURE,ns,nanoseconds
+MEASURE,per kg,per kilogram
+MEASURE,sq/km,square per kilometer
+MEASURE,Pm,peta meters
+MEASURE,kcal,kilo calories
+MEASURE,Gy,grays
+MEASURE,kg/m³,kilogram per cubic meter
+MEASURE,billion TL,sil
+MEASURE,dm3,oo   cubic deci meters
+MEASURE,million km²,sil
+MEASURE,lm,lumens
+MEASURE,Mm,mega meters
+MEASURE,/m2,per square meter
+MEASURE,billion kW,sil
+MEASURE,tons/year,tons per year
+MEASURE,mmHg,millimeters of mercury
+MEASURE,MS,mega siemens
+MEASURE,km / km2,kilometers per square kilometer
+MEASURE,m3/km2,cubic meters per square kilometer
+MEASURE,kJ,kilo joules
+MEASURE,million m3,sil
+MEASURE,/barrel,per barrel
+MEASURE,PL,peta liters
+MEASURE,g/km,grams per kilometer
+MEASURE,KW/h,kilowatt per hour
+MEASURE,μm3,cubic micrometers
+MEASURE,/hour,per hour
+MEASURE,million kWh,sil
+MEASURE,Ml,mega liters
+MEASURE,g/m3,micrograms per cubic meter
+MEASURE,g/m,micrograms per meter
+MEASURE,amu,atomic mass units
+MEASURE,THz,tera hertz
+MEASURE,ds,deci seconds
+MEASURE,Km2,square kilometers
+MEASURE,ng,nano gram
+MEASURE,TJ,tera joules
+MEASURE,/square mile,per square miles
+MEASURE,g/mol,grams per mole
+MEASURE,per mol,per mole
+MEASURE,barrels/day,barrel per day
+MEASURE,million m2,sil
+MEASURE,mol/m3,moles per cubic meter
+MEASURE,p.c.,percent
+MEASURE,rad,radians
+MEASURE,hs,hecto seconds
+MEASURE,mJ/cm2,milli joule per square centimeter
+MEASURE,μC/cm2,micro coulombs per square centimeter
+MEASURE,/min,per minute
+MEASURE,MS/s,mega siemens per second
+MEASURE,MF,mega farad
+MEASURE,kcal/g,kilo calories per gram
+MEASURE,per km,per kilometer
+MEASURE,db,decibels
+MEASURE,/week,per week
+MEASURE,MΩ,mega ohms
+MEASURE,m/s²,meters per square second
+MEASURE,L,micro liters
+MEASURE,/m²,per square meter
+MEASURE,mg/dm3,milligram per cubic deci meter
+MEASURE,g/m2,grams per square meter
+MEASURE,mSv,milli sieverts
+MEASURE,Ghz,gigahertz
+MEASURE,mJ,milli joules
+MEASURE,degrees F,degrees fahrenheit
+MEASURE,GN,giga newtons
+MEASURE,billion m³,sil
+MEASURE,million m,sil
+MEASURE,mΩ,milli ohms
+MEASURE,mN,milli newtons
+MEASURE,million TL,sil
+MEASURE,million gallons/day,sil
+MEASURE,per m³,per cubic meter
+MEASURE,PJ,peta joules
+MEASURE,TN,tera newtons
+MEASURE,"MHz,",megahertz
+MEASURE,/km,per kilometer
+MEASURE,km³,cubic kilometers
+MEASURE,Kg,kilograms
+MEASURE,g/cm³,grams per c c
+MEASURE,thousand ha,sil
+MEASURE,kmh,kilometers per hour
+MEASURE,m/km,meters per kilometer
+MEASURE,μPa,micro pascal
+MEASURE,mp/h,meters per hour
+MEASURE,mi/s,miles per second
+MEASURE,kbar,kilo bars
+MEASURE,/square kilometer,per square kilometer
+MEASURE,Mb/s,megabits per second
+MEASURE,m/m,meter per meter
+MEASURE,Gbps,gigabits per second
+MEASURE,kg/cm2,kilograms per square centimeter
+MEASURE,ppi,pixels per inch
+MEASURE,million m²,sil
+MEASURE,per mm,per millimeters
+MEASURE,/mol,per mole
+MEASURE,Bq/m2,becquerels per square meter
+MEASURE,dam3,cubic deca meters
+MEASURE,m/min,meters per minute
+MEASURE,mW,milli watts
+MEASURE,kΩ,kilo ohms
+MEASURE,dam,deca meters
+MEASURE,ng/kg,nano grams per kilogram
+MEASURE,mg/m³,milligram per cubic meter
+MEASURE,g/m³,microgram per cubic meter
+MEASURE,mL/Kg,milliliters per kilogram
+MEASURE,KF,kilo farads
+MEASURE,KS,kilo siemens
+MEASURE,pC,pico coulombs
+MEASURE,million lbs,sil
+MEASURE,tons/day,tons per day
+MEASURE,dB/km,decibel per kilometer
+MEASURE,hm3,cubic hecto meters
+MEASURE,cm3/mol,c c per mole
+MEASURE,dg,deci grams
+MEASURE,GB/s,gigabytes per second
+MEASURE,mJ/m2,milli joules per square meter
+MEASURE,meters/year,meter per year
+MEASURE,hPa,hecto pascals
+MEASURE,GJ,giga joules
+MEASURE,bar/m,bars per meter
+MEASURE,g/Mg,grams per mega gram
+MEASURE,TiB,sil
+MEASURE,per m²,per square meters
+MEASURE,million mi,sil
+MEASURE,F,micro farads
+MEASURE,Kcal/kg,kilo calories per kilogram
+MEASURE,cm3,c c
+MEASURE,Kbps,kilobits per second
+MEASURE,m³/min,cubic meters per minute
+MEASURE,fl oz,fluid ounces
+MEASURE,mol,moles
+MEASURE,miles/hour,miles per hour
+MEASURE,bps,bits per second
+MEASURE,cGy,centi grays
+MEASURE,cl,centiliters
+MEASURE,km / h,kilometers per hour
+MEASURE,million kg,sil
+MEASURE,μL,micro liter
+MEASURE,mm3,cubic millimeter
+MEASURE,million ha,sil
+MEASURE,MJ/kg,mega joules per kilogram
+MEASURE,mGy,milli grays
+MEASURE,tonnes/year,tonnes per year
+MEASURE,p/min,per minutes
+MEASURE,g/g,micrograms per gram
+MEASURE,aS,atto siemens
+MEASURE,kJ per mol,kilo joules per mole
+MEASURE,per mm3,per cubic millimeter
+MEASURE,cm/s,centimeters per second
+MEASURE,nPa,nano pascals
+MEASURE,BOE,barrels of oil equivalent
+MEASURE,Tm2,square tera meters
+MEASURE,mL/kg,milliliter per kilogram
+MEASURE,Kl,kilo liters
+MEASURE,dal,deca liters
+MEASURE,g,micrograms
+MEASURE,Gb,gigabit
+MEASURE,mg,thirds of a milligram
+MEASURE,ft/s,feet per second
+MEASURE,yr,year
+MEASURE,m2/h,square meters per hour
+MEASURE,MH,mega henrys
+MEASURE,mL/kg,milliliters per kilogram
+MEASURE,hours/day,hours per day
+MEASURE,st,firsts of a stone
+MEASURE,kJ/g,kilo joules per gram
+MEASURE,GB,gigabytes
+MEASURE,in,inches
+MEASURE,m/s2,meters per square second
+MEASURE,billion ly,sil
+MEASURE,thousand hl,sil
+MEASURE,/cubic meter,per cubic meter
+MEASURE,kg/kg,kilograms per kilogram
+MEASURE,μl,micro liters
+MEASURE,pS,pico siemens
+MEASURE,MF,mega farads
+MEASURE,mhz,milli hertz
+MEASURE,ns,nanosecond
+MEASURE,degree C,degree celsius
+MEASURE,bpd,barrels of oil per day
+MEASURE,Km2,osquare kilometers
+MEASURE,Tb/s,tera bits per second
+MEASURE,kilobits/second,kilobits per second
+MEASURE,billion ft,sil
+MEASURE,/mm2,per square millimeter
+MEASURE,g/kg,micrograms per kilogram
+MEASURE,/μm,per micrometer
+MEASURE,/km,per kilometers
+MEASURE,"MiB,",sil
+MEASURE,kgf,kilogram force
+MEASURE,p/s,per seconds
+MEASURE,kΩ,kilo ohm
+MEASURE,Bq,becquerels
+MEASURE,kg/m²,kilogram per square meter
+MEASURE,/cm2,per square centimeter
+MEASURE,cd,candela
+MEASURE,ng,nano grams
+MEASURE,kJ/mol,kilo joules per mole
+MEASURE,per cm2,per square centimeter
+MEASURE,billion km,sil
+MEASURE,p/m,per meters
+MEASURE,cm/min,centimeter per minute
+MEASURE,cm³,c c
+MEASURE,cm2/mol,square centimeter per mole
+MEASURE,million bpd,sil
+MEASURE,/square meter,per square meter
+MEASURE,cm/km,centimeters per kilometer
+MEASURE,mA/cm3,milli amperes per c c
+MEASURE,dB/km,decibels per kilometer
+MEASURE,Bq/kg,becquerels per kilogram
+MEASURE,/mmol,per milli mole
+MEASURE,fl oz,thirds of a fluid ounce
+MEASURE,year,per year
+MEASURE,g/cm2,micrograms per square centimeter
+MEASURE,ounces/year,ounces per year
+MEASURE,/bbl,per barrel
+MEASURE,pF,pico farads
+MEASURE,kF,kilo farads
+MEASURE,nJ,nano joules
+MEASURE,mile²,square miles
+MEASURE,cm/s2,centimeters per square second
+MEASURE,per m3,o per cubic meters
+MEASURE,MJ/m³,mega joules per cubic meter
+MEASURE,mA/m,milli amperes per meter
+MEASURE,per m²,per square meter
+MEASURE,day,per day
+MEASURE,kWh/m3,kilo watt hour per cubic meter
+MEASURE,mg per kg,milligrams per kilogram
+MEASURE,/cm²,per square centimeter
+MEASURE,Tb,tera bits
+MEASURE,/mg,per milligram
+MEASURE,Gg,giga grams
+MEASURE,kW/kg,kilowatts per kilogram
+MEASURE,per mm,per millimeter
+MEASURE,/Kg,per kilogram
+MEASURE,kV/m,kilo volts per meter
+MEASURE,A,micro amperes
+MEASURE,kWh/m2,kilo watt hours per square meter
+MEASURE,m / s,meters per second
+MEASURE,das,deca seconds
+MEASURE,radians/second,radian per second
+MEASURE,per Km,per kilometers
+MEASURE,kJ/s,kilo joule per second
+MEASURE,tons/minute,tons per minute
+MEASURE,million GWh,sil
+MEASURE,Tg,tera grams
+MEASURE,hb,hecto bits
+MEASURE,mg/m2,milligrams per square meter
+MEASURE,feet/second,feet per second
+MEASURE,kgf/mm²,kilogram force per square millimeter
+MEASURE,/Mg,per mega gram
+MEASURE,kg/m2,kilograms per square meter
+MEASURE,TJ/kg,tera joules per kilogram
+MEASURE,sr,steradian
+MEASURE,Np,nepers
+MEASURE,hF,hecto farads
+MEASURE,cH,centi henrys
+MEASURE,"GB,",gigabytes
+MEASURE,bits/second,bit per second
+MEASURE,mS/cm,milli siemens per centimeter
+MEASURE,kWh/m²,kilo watt hours per square meter
+MEASURE,million barrels of oil/year,sil
+MEASURE,million KW,sil
+MEASURE,μg/m3,micrograms per cubic meter
+MEASURE,billion ha,sil
+MEASURE,mJ/mm2,milli joules per square millimeter
+MEASURE,per cm³,per c c
+MEASURE,mSv/h,milli sieverts per hour
+MEASURE,meter2,square meters
+MEASURE,tbsp,tablespoon
+MEASURE,cd/cm2,candelas per square centimeter
+MEASURE,kA/cm2,kilo amperes per square centimeter
+MEASURE,gal/min,gallon per minute
+MEASURE,PJ/kg,peta joules per kilogram
+MEASURE,mg,milligram
+MEASURE,oz,and  quarters ounces
+MEASURE,per cm,per centimeter
+MEASURE,TB,terabyte
+MEASURE,st,over  of a stone
+MEASURE,μg,microgram
+MEASURE,ml/kg,milliliters per kilogram
+MEASURE,/s2,per square second
+MEASURE,cd/m²,candelas per square meter
+MEASURE,kg/cm²,kilograms per square centimeter
+MEASURE,/square mile,per square mile
+MEASURE,per m3,per cubic meters
+MEASURE,μg/kg,micrograms per kilogram
+MEASURE,million km³,sil
+MEASURE,μg/m,micrograms per meter
+MEASURE,lb/s,pounds per second
+MEASURE,kg/s,kilograms per second
+MEASURE,per mm2,per square millimeters
+MEASURE,revolutions/minute,revolutions per minute
+MEASURE,mm3,cubic millimeters
+MEASURE,per µg,per microgram
+MEASURE,"V,",volts
+MEASURE,μN,micro newtons
+MEASURE,mg/km2,milligram per square kilometer
+MEASURE,/ng,per nano grams
+MEASURE,nm3,cubic nanometers
+MEASURE,m/nm,meters per nanometer
+MEASURE,tsp,and a half teaspoons
+MEASURE,Sv,sievert
+MEASURE,μg/g,micrograms per gram
+MEASURE,dl,deci liters
+MEASURE,pF/m,pico farads per meter
+MEASURE,MBq,mega becquerels
+MEASURE,KN,kilonewtons
+MEASURE,dm3,cubic deci meters
+MEASURE,km/km²,kilometers per square kilometer
+MEASURE,dS/m,deci siemens per meter
+MEASURE,million km3,sil
+MEASURE,Gl,giga liters
+MEASURE,hour,per hour
+MEASURE,min,per minute
+MEASURE,kg/mm2,kilograms per square millimeter
+MEASURE,mC,milli coulombs
+MEASURE,mol/kg,mole per kilogram
+MEASURE,MJ/m3,mega joules per cubic meter
+MEASURE,m3/km,cubic meters per kilometer
+MEASURE,mi/h,miles per hour
+MEASURE,mH,milli henrys
+MEASURE,μA,micro amperes
+MEASURE,thousand m2,sil
+MEASURE,inches/second,inch per second
+MEASURE,barrels/day,barrels per day
+MEASURE,Mm2,square mega meters
+MEASURE,KL,kilo liters
+MEASURE,Bq/g,becquerels per gram
+MEASURE,Kcal,kilo calories
+MEASURE,thousand bpd,sil
+MEASURE,thousand ft,sil
+MEASURE,kBq/kg,kilo becquerels per kilogram
+MEASURE,million sq mi,sil
+MEASURE,mg per kg,milligram per kilogram
+MEASURE,second,per second
+MEASURE,cs,centi seconds
+MEASURE,kg/m³,kilograms per cubic meter
+MEASURE,per mi2,per square miles
+MEASURE,degree C,degrees celsius
+MEASURE,μg/km,microgram per kilometer
+MEASURE,m/g,meter per gram
+MEASURE,kcal/kg,kilo calories per kilogram
+MEASURE,nF,nano farads
+MEASURE,cL,centiliters
+MEASURE,kW/m,kilowatts per meter
+MEASURE,lea,league
+MEASURE,KH,kilo henrys
+MEASURE,mPa,milli pascals
+MEASURE,mm/s,millimeter per second
+MEASURE,mm³/s,cubic millimeters per second
+MEASURE,μF,micro farad
+MEASURE,cd/m2,candelas per square meter
+MEASURE,nanoseconds/day,nanoseconds per day
+MEASURE,per g,per gram
+MEASURE,mg/g,milligrams per gram
+MEASURE,m/kg,meters per kilogram
+MEASURE,m2/g,square meters per gram
+MEASURE,mm/km,millimeters per kilometer
+MEASURE,μl,micro liter
+MEASURE,Tbps,tera bits per second
+MEASURE,lx,lux
+MEASURE,rpm,and a third revolutions per minute
+MEASURE,PW,peta watt
+MEASURE,million V,sil
+MEASURE,g/kg,gram per kilogram
+MEASURE,per m3,per cubic meter
+MEASURE,million tons/year,sil
+MEASURE,"Mbps,",megabits per second
+MEASURE,ft/m,foot per meter
+MEASURE,megatons/year,mega tons per year
+MEASURE,GW/cm2,gigawatt per square centimeter
+MEASURE,s,microseconds
+MEASURE,GiB/s,sil
+MEASURE,ft/s2,feet per square second
+MEASURE,EiB,sil
+MEASURE,kGy,kilo grays
+MEASURE,Mbar,mega bars
+MEASURE,mg/m,milligrams per meter
+MEASURE,kilometers/hour,kilo meters per hour
+MEASURE,billion m,sil
+MEASURE,nF,nano farad
+MEASURE,million/year,sil
+MEASURE,mol,o  moles
+MEASURE,/mm²,per square millimeter
+MEASURE,million kW,sil
+MEASURE,fl.oz,fluid ounces
+MEASURE,Nm/kg,newton meters per kilogram
+MEASURE,Wh/km,watt hour per kilometer
+MEASURE,mm³,cubic millimeters
+MEASURE,/cm3,per c c
+MEASURE,mm/h,millimeters per hour
+MEASURE,million lb,sil
+MEASURE,mL/min,milliliters per minute
+MEASURE,dag,deca grams
+MEASURE,/gram,per gram
+MEASURE,μS/cm,micro siemens per centimeter
+MEASURE,tonnes/hour,tonnes per hour
+MEASURE,g/m²,grams per square meter
+MEASURE,/meter,per meter
+MEASURE,g/m3,grams per cubic meter
+MEASURE,per cm3,per c c
+MEASURE,GW/m3,gigawatt per cubic meter
+MEASURE,/cm2,per square centimeters
+MEASURE,mph/h,miles per hour per hour
+MEASURE,ft/min,feet per minute
+MEASURE,hA,hecto amperes
+MEASURE,mF,milli farads
+MEASURE,mBq/g,milli becquerels per gram
+MEASURE,PN,peta newtons
+MEASURE,/cg,per centi grams
+MEASURE,/Km,per kilometer
+MEASURE,sq/m,square per meter
+MEASURE,MB/s2,megabytes per square second
+MEASURE,Gbps,gigabit per second
+MEASURE,pS/m,pico siemens per meter
+MEASURE,g per kg,grams per kilogram
+MEASURE,mm/s,millimeters per second
+MEASURE,hours/week,hours per week
+MEASURE,kg/h,kilograms per hour
+MEASURE,/μg,per microgram
+MEASURE,kg/dm³,kilograms per cubic deci meter
+MEASURE,ml/min,milliliters per minute
+MEASURE,billion KWh,sil
+MEASURE,trillion m³,sil
+MEASURE,/ng,per nano gram
+MEASURE,mmHg,tieths of a millimeter of mercury
+MEASURE,rad/h,radians per hour
+MEASURE,MBq/m2,mega becquerels per square meter
+MEASURE,Wh/kg,watt hours per kilogram
+MEASURE,μSv/h,micro sieverts per hour
+MEASURE,km2/s2,square kilometers per square second
+MEASURE,aA,atto amperes
+MEASURE,dm,deci meters
+MEASURE,bytes/second,byte per second
+MEASURE,kg per cm²,kilograms per square centimeter
+MEASURE,"MW,",megawatts
+MEASURE,/mi²,per square mile
+MEASURE,kN,o kilonewtons
+MEASURE,mW/cm2,milli watts per square centimeter
+MEASURE,g,ths of a gram
+MEASURE,ch,chain
+MEASURE,mg/m²,milligrams per square meter
+MEASURE,ms,millisecond
+MEASURE,mJ/cm2,milli joules per square centimeter
+MEASURE,GW,gigawatt
+MEASURE,meters/second,meter per second
+MEASURE,per s,per second
+MEASURE,hr,hours
+MEASURE,/m³,per cubic meter
+MEASURE,kV/cm,kilo volts per centimeter
+MEASURE,million MW,sil
+MEASURE,%/s,percent per second
+MEASURE,cc I,c c
+MEASURE,billion nm3,sil
+MEASURE,inches/second,inches per second
+MEASURE,/dam,per deca meter
+MEASURE,m3/h,cubic meters per hour
+MEASURE,μL,micro liters
+MEASURE,per mi²,per square miles
+MEASURE,KWh,kilo watt hour
+MEASURE,g/m3,microgram per cubic meter
+MEASURE,A,micro ampere
+MEASURE,mA,milli ampere
+MEASURE,mol/mol,mole per mole
+MEASURE,lbs/min,pound per minute
+MEASURE,/Pg,per peta gram
+MEASURE,p/m,per meter
+MEASURE,μg/m³,micrograms per cubic meter
+MEASURE,kilograms/year,kilogram per year
+MEASURE,L/min,micro liters per minute
+MEASURE,million sq ft,sil
+MEASURE,kcal/h,kilo calories per hour
+MEASURE,month,per month
+MEASURE,KJ,kilo joules
+MEASURE,μSv,micro sieverts
+MEASURE,million KWh,sil
+MEASURE,ng/cm2,nano grams per square centimeter
+MEASURE,kb/s,kilobits per second
+MEASURE,Sv/h,sievert per hour
+MEASURE,micrograms/day,micrograms per day
+MEASURE,Bq/m3,becquerel per cubic meter
+MEASURE,cm2/s,square centimeters per second
+MEASURE,hm³,cubic hecto meters
+MEASURE,p/s,per second
+MEASURE,cm/s,centimeter per second
+MEASURE,l,micro liters
+MEASURE,kW/m²,kilowatts per square meter
+MEASURE,km/cm3,kilometers per c c
+MEASURE,khz,kilohertz
+MEASURE,MN/m2,mega newtons per square meter
+MEASURE,dam2,square deca meters
+MEASURE,kBq/m2,kilo becquerels per square meter
+MEASURE,million liters/year,sil
+MEASURE,hours/year,hour per year
+MEASURE,meters/day,meter per day
+MEASURE,mm/s2,millimeter per square second
+MEASURE,/nm,per nanometer
+MEASURE,gallons/year,gallons per year
+MEASURE,gal/min,gallons per minute
+MEASURE,μm2,square micrometers
+MEASURE,μbar,micro bars
+MEASURE,cm/s2,centimeter per square second
+MEASURE,kJ/km,kilo joules per kilometer
+MEASURE,m2/s,square meters per second
+MEASURE,/kg,per kilograms
+MEASURE,Kb,kilobit
+MEASURE,per meter2,per square meter
+MEASURE,volts/meter,volt per meter
+MEASURE,g/m2,gram per square meter
+MEASURE,KV,twentieths of a kilo volt
+MEASURE,Nm,ths of a newton meter
+MEASURE,moles/day,moles per day
+MEASURE,kl,kilo liter
+MEASURE,pF,pico farad
+MEASURE,μs,microsecond
+MEASURE,trillion cm,sil
+MEASURE,mm²,per square millimeter
+MEASURE,thousand km2,sil
+MEASURE,kg/m2,kilogram per square meter
+MEASURE,mg/cm3,milligrams per c c
+MEASURE,kilometers/day,kilo meters per day
+MEASURE,mV/m,milli volt per meter
+MEASURE,V/m,micro volts per meter
+MEASURE,billion PJ,sil
+MEASURE,/mm3,per cubic millimeters
+MEASURE,/hg,per hecto gram
+MEASURE,kilobytes/second,kilobytes per second
+MEASURE,Wh/km,watt hours per kilometer
+MEASURE,grams/mole,grams per mole
+MEASURE,barrels/year,barrels per year
+MEASURE,watts/square meter,watts per square meter
+MEASURE,mm B,millimeters
+MEASURE,/dm,per deci meter
+MEASURE,Khz,kilohertz
+MEASURE,nV/cm,nano volts per centimeter
+MEASURE,tons/year,ton per year
+MEASURE,hours/day,hour per day
+MEASURE,million hl,sil
+MEASURE,kBq,kilo becquerels
+MEASURE,thousand kWh,sil
+MEASURE,millisieverts/hour,milli sieverts per hour
+MEASURE,m³/h,cubic meters per hour
+MEASURE,Tm,tera meters
+MEASURE,Km²,square kilometers
+MEASURE,hm3,cubic hecto meter
+MEASURE,kB/s,kilobytes per second
+MEASURE,dS,deci siemens
+MEASURE,cm²,square centimeter
+MEASURE,tbsp,tablespoons
+MEASURE,GB M,gigabytes
+MEASURE,E9 kWh,times  to the  kilo watt hours
+MEASURE,kgf/cm²,kilograms force per square centimeter
+MEASURE,m/m,meters per meter
+MEASURE,km/Km2,kilometers per square kilometer
+MEASURE,μW,microwatts
+MEASURE,per dag,per deca grams
+MEASURE,kg/km2,kilograms per square kilometer
+MEASURE,kBq/g,kilo becquerels per gram
+MEASURE,g/dm3,grams per cubic deci meter
+MEASURE,kL,kilo liter
+MEASURE,m per km,meter per kilometer
+MEASURE,kWh/m,kilo watt hours per meter
+MEASURE,hm,hecto meter
+MEASURE,/kilogram,per kilogram
+MEASURE,μg/kg,microgram per kilogram
+MEASURE,million percent,sil
+MEASURE,hL,ohecto liters
+MEASURE,million MWh,sil
+MEASURE,mV/cm,milli volts per centimeter
+MEASURE,ks/s,kilo seconds per second
+MEASURE,KB/s,kilobytes per second
+MEASURE,per km,per kilometers
+MEASURE,Kib,sil
+MEASURE,N,micro newtons
+MEASURE,Km/h,kilometers per hour
+MEASURE,MA,mega ampere
+MEASURE,e2m,times  to the  meters
+MEASURE,million pc,sil
+MEASURE,million ly,sil
+MEASURE,billion kg,sil
+MEASURE,months/year,months per year
+MEASURE,g/mg,microgram per milligram
+MEASURE,g/mol,gram per mole
+MEASURE,eV,electron volt
+MEASURE,mH,milli henry
+MEASURE,ng/km,nano grams per kilometer
+MEASURE,million degrees C,sil
+MEASURE,KV,ths of a kilo volt
+MEASURE,kg/kg,kilogram per kilogram
+MEASURE,cm/h,centimeters per hour
+MEASURE,/year,per years
+MEASURE,g/m²,micrograms per square meter
+MEASURE,per h,per hour
+MEASURE,g/km,gram per kilometer
+MEASURE,ch,ths of a chain
+MEASURE,KWh,kilo watt hours
+MEASURE,kJ/kg,kilo joule per kilogram
+MEASURE,Sv,o sieverts
+MEASURE,million atm,sil
+MEASURE,/mile²,per square miles
+MEASURE,trillion m3,sil
+MEASURE,degrees/second,degrees per second
+MEASURE,m per km,meters per kilometer
+MEASURE,million Da,sil
+MEASURE,mg/Kg,milligrams per kilogram
+MEASURE,MW/km2,megawatts per square kilometer
+MEASURE,Ω,o   ohms
+MEASURE,liters/minute,liters per minute
+MEASURE,S,micro siemens
+MEASURE,/m2,oper square meters
+MEASURE,"KB,",kilobytes
+MEASURE,mile2,square miles
+MEASURE,Pm,pointo peta meters
+MEASURE,million mph,sil
+MEASURE,thousand m3,sil
+MEASURE,dag,deca gram
+MEASURE,tsp,quarter of a teaspoon
+MEASURE,cc B,c c
+MEASURE,horsepower/hour,horsepower per hour
+MEASURE,revolutions / minute,revolutions per minute
+MEASURE,p/hour,per hour
+MEASURE,bits/second,bits per second
+MEASURE,cm3/kg,c c per kilogram
+MEASURE,/mole,per mole
+MEASURE,mL/min,milliliter per minute
+MEASURE,dH,deci henrys
+MEASURE,kW/dm3,kilowatts per cubic deci meter
+MEASURE,g/cm2,gram per square centimeter
+MEASURE,cal M,cal
+MEASURE,ng/cm2,nano gram per square centimeter
+MEASURE,/Gm,per giga meter
+MEASURE,km/km2,kilometer per square kilometer
+MEASURE,billion mi,sil
+MEASURE,NA,degrees
+MEASURE,mol/m2,mole per square meter
+MEASURE,kPa/m,kilopascal per meter
+MEASURE,kBq/m3,kilo becquerels per cubic meter
+MEASURE,hg,hecto grams
+MEASURE,ounces/week,ounces per week
+MEASURE,mg/m³,milligrams per cubic meter
+MEASURE,mAh/cm3,milli amp hour per c c
+MEASURE,/s3,per cubic second
+MEASURE,km/km,kilometer per kilometer

@@ -1,0 +1,438 @@
+class,before,after
+PLAIN,vol,volume
+PLAIN,vs,versus
+PLAIN,PbSO4,lead two sulphate
+PLAIN,-,to
+PLAIN,st,saint
+PLAIN,dr,doctor
+PLAIN,int'l,international
+PLAIN,mr,mister
+PLAIN,ltd,limited
+PLAIN,st,street
+PLAIN,CPL,corporal
+PLAIN,sq,square
+PLAIN,nov,november
+PLAIN,:,to
+PLAIN,no,number
+PLAIN,dept,department
+PLAIN,jr,junior
+PLAIN,cpl,corporal
+PLAIN,rd,road
+PLAIN,ST,saint
+PLAIN,MR,mister
+PLAIN,bros,brothers
+PLAIN,x,by
+PLAIN,mt,mount
+PLAIN,sr,senior
+PLAIN,MTN,mountain
+PLAIN,etc,etcetera
+PLAIN,cir,circle
+PLAIN,No,number
+PLAIN,pvt,private
+PLAIN,litre,liter
+PLAIN,Risa,riza
+PLAIN,Café,cafe
+PLAIN,Wy,way
+PLAIN,Vol,volume
+PLAIN,Al2O3,aluminium oxide
+PLAIN,RD,road
+PLAIN,SR,senior
+PLAIN,ST,street
+PLAIN,metre,meter
+PLAIN,ave,avenue
+PLAIN,prof,professor
+PLAIN,OK,okay
+PLAIN,NO,nitrogen monoxide
+PLAIN,pl,place
+PLAIN,Prof,professor
+PLAIN,yr,year
+PLAIN,DR,drive
+PLAIN,odour,odor
+PLAIN,JR,junior
+PLAIN,w/,with
+PLAIN,Mitre,miter
+PLAIN,Vs,versus
+PLAIN,LN,lane
+PLAIN,tues,tuesday
+PLAIN,CLL,calle
+PLAIN,Metre,meter
+PLAIN,PL,place
+PLAIN,MT,mount
+PLAIN,sqn,squadron
+PLAIN,café,cafe
+PLAIN,Nov,november
+PLAIN,CCl4,carbon tetra chloride
+PLAIN,CO)16,carbon hexadecoxide
+PLAIN,ln,lane
+PLAIN,Bros,brothers
+PLAIN,SO,sulphur monoxide
+PLAIN,blvd,boulevard
+PLAIN,hr,hour
+PLAIN,WY,way
+PLAIN,Cos,cause
+PLAIN,mgmt,management
+PLAIN,LB,pound
+PLAIN,Sun,sunday
+PLAIN,BBQ,barbeque
+PLAIN,mtn,mountain
+PLAIN,WK,week
+PLAIN,Fibre,fiber
+PLAIN,Isaak,izaak
+PLAIN,SAT,saturday
+PLAIN,ok,okay
+PLAIN,:-(,sad face sil
+PLAIN,lb,pound
+PLAIN,~,to
+PLAIN,Dept,department
+PLAIN,EsP,especially
+PLAIN,Oct,october
+PLAIN,DR,doctor
+PLAIN,ct,court
+PLAIN,I,one
+PLAIN,fibre,fiber
+PLAIN,LTD,limited
+PLAIN,CO)5,carbon pentoxide
+PLAIN,CO)9,carbon nonoxide
+PLAIN,COS,cause
+PLAIN,kg,kilogram
+PLAIN,CO),carbon monoxide
+PLAIN,Pop,population
+PLAIN,sun,sunday
+PLAIN,:(,sad face sil
+PLAIN,YR,year
+PLAIN,Ave,avenue
+PLAIN,jct,junction
+PLAIN,op,opus
+PLAIN,min,minute
+PLAIN,apr,april
+PLAIN,INT'L,international
+PLAIN,Int'l,international
+PLAIN,Tel,telephone
+PLAIN,CTRL,control
+PLAIN,ETC,etcetera
+PLAIN,CTR,center
+PLAIN,dr,drive
+PLAIN,Ok,okay
+PLAIN,Yr,year
+PLAIN,mins,minutes
+PLAIN,NO),nitrogen monoxide
+PLAIN,Etc,etcetera
+PLAIN,Op,opus
+PLAIN,Min,minute
+PLAIN,bldg,building
+PLAIN,Pate,paté
+PLAIN,Col,colonel
+PLAIN,oct,october
+PLAIN,Elisa,eliza
+PLAIN,MgO),magnesium oxide
+PLAIN,esp,especially
+PLAIN,ohiʻa,ohia
+PLAIN,iʻiwi,iiwi
+PLAIN,PO),phosphorus monoxide
+PLAIN,Intl,international
+PLAIN,OP,opus
+PLAIN,BR,bridge
+PLAIN,wk,week
+PLAIN,ClO)2,chlorine di oxide
+PLAIN,intl,international
+PLAIN,wks,weeks'
+PLAIN,ELISA,eliza
+PLAIN,Apr,april
+PLAIN,CRK,creek
+PLAIN,pate,paté
+PLAIN,aliʻi,alii
+PLAIN,ClO4,chlorine tetroxide
+PLAIN,mitre,miter
+PLAIN,Al2O6,aluminium oxide
+PLAIN,Mins,minutes
+PLAIN,NaCl,sodium chloride
+PLAIN,ctr,center
+PLAIN,AlCl3,aluminium chloride
+PLAIN,AVE,avenue
+PLAIN,VOL,volume
+PLAIN,br,bridge
+PLAIN,oʻahu,oahu
+PLAIN,PSO,paseo
+PLAIN,JCT,junction
+PLAIN,CO)6,carbon hexoxide
+PLAIN,TPK,turnpike
+PLAIN,OO,oxygen monoxide
+PLAIN,MDW,meadow
+PLAIN,Cl2O3,di chlorine tri oxide
+PLAIN,ladys,lady's
+PLAIN,APR,april
+PLAIN,MITRE,miter
+PLAIN,SQ,square
+PLAIN,NOV,november
+PLAIN,BLDG,building
+PLAIN,Cuz,cause
+PLAIN,Wed,wednesday
+PLAIN,ali'i,alii
+PLAIN,SnCl,tin one chloride
+PLAIN,CO)12,carbon dodecoxide
+PLAIN,Expwy,expressway
+PLAIN,ctrl,control
+PLAIN,:),smiley face sil
+PLAIN,Cir,circle
+PLAIN,Umweg,um weg
+PLAIN,—,to
+PLAIN,CIR,circle
+PLAIN,ke$ha,kesha
+PLAIN,RISA,riza
+PLAIN,Beweg,be weg
+PLAIN,cuz,cause
+PLAIN,cos,cause
+PLAIN,Litre,liter
+PLAIN,O'ahu,oahu
+PLAIN,MNR,manor
+PLAIN,SnCl4,tin four chloride
+PLAIN,crk,creek
+PLAIN,Mon,monday
+PLAIN,yoiks,yoicks
+PLAIN,C(O),carbon monoxide
+PLAIN,CO)4,carbon tetroxide
+PLAIN,tel,telephone
+PLAIN,Ladys,lady's
+PLAIN,NaCl),sodium chloride
+PLAIN,AlO,aluminium oxide
+PLAIN,Byp,bypass
+PLAIN,o'opu,oopu
+PLAIN,Coz,cause
+PLAIN,;),winking face sil
+PLAIN,AlO3,aluminium oxide
+PLAIN,Al2O,aluminium oxide
+PLAIN,col,colonel
+PLAIN,wy,way
+PLAIN,prev,previous
+PLAIN,SUN,sunday
+PLAIN,isard,izard
+PLAIN,thurs,thursday
+PLAIN,Fwy,freeway
+PLAIN,Prev,previous
+PLAIN,S(O),sulphur monoxide
+PLAIN,POP,population
+PLAIN,Tues,tuesday
+PLAIN,elisa,eliza
+PLAIN,Olé,ole
+PLAIN,Thu,thursday
+PLAIN,ltd's,limited's
+PLAIN,OCT,october
+PLAIN,mtns,mountains
+PLAIN,Cu2O4,copper four oxide
+PLAIN,waʻa,waa
+PLAIN,olé,ole
+PLAIN,Isard,izard
+PLAIN,pop,population
+PLAIN,NO,number
+PLAIN,Howeg,ho weg
+PLAIN,Cl4O2,tetra chlorine di oxide
+PLAIN,CuO),copper two oxide
+PLAIN,V,five
+PLAIN,CO)8,carbon octoxide
+PLAIN,PbO,lead two oxide
+PLAIN,PbO2,lead four oxide
+PLAIN,PbCO3,lead two carbonate
+PLAIN,PbCl2,lead two chloride
+PLAIN,PbCl4,lead four chloride
+PLAIN,Fri,friday
+PLAIN,Sat,saturday
+PLAIN,BLVD,boulevard
+PLAIN,SnCl2,tin two chloride
+PLAIN,wed,wednesday
+PLAIN,Aust,australian
+PLAIN,COL,colonel
+PLAIN,eLISA,eliza
+PLAIN,Cl2O6,di chlorine hexoxide
+PLAIN,CCl2,carbon di chloride
+PLAIN,BLK,block
+PLAIN,spgs,springs
+PLAIN,CO)10,carbon decoxide
+PLAIN,INTL,international
+PLAIN,blk,block
+PLAIN,SPGs,springs
+PLAIN,mnr,manor
+PLAIN,Ka'u,kau
+PLAIN,Alweg,al weg
+PLAIN,thu,thursday
+PLAIN,keʻo,keo
+PLAIN,opuʻu,opuu
+PLAIN,PoP,population
+PLAIN,MgO,magnesium oxide
+PLAIN,risa,riza
+PLAIN,byP,bypass
+PLAIN,Esp,especially
+PLAIN,Pkwy,parkway
+PLAIN,PVT,private
+PLAIN,nu'u,nuu
+PLAIN,NCl3,nitrogen tri chloride
+PLAIN,Thurs,thursday
+PLAIN,WKS,weeks'
+PLAIN,kaʻu,kau
+PLAIN,P(O),phosphorus monoxide
+PLAIN,terr,terrace
+PLAIN,PROF,professor
+PLAIN,Lisak,lizak
+PLAIN,Ali'i,alii
+PLAIN,Tue,tuesday
+PLAIN,SQN,squadron
+PLAIN,haʻa,haa
+PLAIN,LTD's,limited's
+PLAIN,MgCl2,magnesium chloride
+PLAIN,MgSO4,magnesium sulphate
+PLAIN,N2O),di nitrogen monoxide
+PLAIN,Na2O,sodium oxide
+PLAIN,ClO,chlorine monoxide
+PLAIN,puʻu,puu
+PLAIN,CuO4,copper eight oxide
+PLAIN,pkwy,parkway
+PLAIN,Nebr,nebraska
+PLAIN,;-),winking face sil
+PLAIN,CuCl2,copper two chloride
+PLAIN,Nu'u,nuu
+PLAIN,olaʻa,olaa
+PLAIN,TUES,tuesday
+PLAIN,SnO),tin two oxide
+PLAIN,keʻei,keei
+PLAIN,Terr,terrace
+PLAIN,oʻopu,oopu
+PLAIN,PbCl,lead one chloride
+PLAIN,CO)2,carbon di oxide
+PLAIN,:'(,crying face sil
+PLAIN,BKLYN,brooklyn
+PLAIN,Ha'a,haa
+PLAIN,:-),smiley face sil
+PLAIN,La'a,laa
+PLAIN,PbCl6,lead six chloride
+PLAIN,OCl,oxygen mono chloride
+PLAIN,CuO2,copper four oxide
+PLAIN,SCl2,sulphur di chloride
+PLAIN,NaO6,sodium oxide
+PLAIN,Cl6O4,hexa chlorine tetroxide
+PLAIN,Cl2O2,di chlorine di oxide
+PLAIN,HVN,haven
+PLAIN,Pso,paseo
+PLAIN,i,one
+PLAIN,Cl2O,di chlorine monoxide
+PLAIN,BROS,brothers
+PLAIN,CO₂,carbon di oxide
+PLAIN,S2O),di sulphur monoxide
+PLAIN,CO)11,carbon undecoxide
+PLAIN,CO)13,carbon tridecoxide
+PLAIN,omweg,om weg
+PLAIN,SnO2,tin four oxide
+PLAIN,SO),sulphur monoxide
+PLAIN,OO),oxygen monoxide
+PLAIN,WKND,weekend
+PLAIN,CO)3,carbon tri oxide
+PLAIN,CCl,carbon mono chloride
+PLAIN,CuO,copper two oxide
+PLAIN,tpk,turnpike
+PLAIN,Vly,valley
+PLAIN,cll,calle
+PLAIN,iʻa,ia
+PLAIN,DEPT,department
+PLAIN,FIBRE,fiber
+PLAIN,La'au,laau
+PLAIN,NEBR,nebraska
+PLAIN,ClO3,chlorine tri oxide
+PLAIN,kaʻau,kaau
+PLAIN,MON,monday
+PLAIN,PCl5,phosphorus penta chloride
+PLAIN,bbq,barbeque
+PLAIN,ClO2,chlorine di oxide
+PLAIN,CuSO4,copper two sulphate
+PLAIN,CO)7,carbon heptoxide
+PLAIN,CuCO3,copper two carbonate
+PLAIN,Odour,odor
+PLAIN,pso,paseo
+PLAIN,CoS,cause
+PLAIN,GRV,grove
+PLAIN,:-D,laughing face sil
+PLAIN,BYP,bypass
+PLAIN,O6(Cl,hexa oxygen mono chloride
+PLAIN,sat,saturday
+PLAIN,PATE,paté
+PLAIN,OCl)2,oxygen di chloride
+PLAIN,ClNO3,chlorine mono nitrate
+PLAIN,NEBr,nebraska
+PLAIN,NaO2,sodium oxide
+PLAIN,CCl3,carbon tri chloride
+PLAIN,PCl3,phosphorus tri chloride
+PLAIN,AlO2,aluminium oxide
+PLAIN,pu'u,puu
+PLAIN,SnO,tin two oxide
+PLAIN,Pu'u,puu
+PLAIN,laʻau,laau
+PLAIN,CuCl,copper one chloride
+PLAIN,lu'au,luau
+PLAIN,kuʻu,kuu
+PLAIN,adjt,adjutant
+PLAIN,Weds,wednesday
+PLAIN,liʻi,lii
+PLAIN,NO)3,nitrogen tri oxide
+PLAIN,Ola'a,olaa
+PLAIN,SCl,sulphur mono chloride
+PLAIN,SCl4,sulphur tetra chloride
+PLAIN,AlCl4,aluminium chloride
+PLAIN,FWY,freeway
+PLAIN,PCl2,phosphorus di chloride
+PLAIN,AlO4,aluminium oxide
+PLAIN,:'),happy crying face sil
+PLAIN,COZ,cause
+PLAIN,grv,grove
+PLAIN,NaNO3,sodium nitrate
+PLAIN,o_O,confused face sil
+PLAIN,S2Cl2,di sulphur di chloride
+PLAIN,Na2O2,sodium oxide
+PLAIN,tue,tuesday
+PLAIN,Cu2O3,copper three oxide
+PLAIN,METRE,meter
+PLAIN,NO)2,nitrogen di oxide
+PLAIN,laʻa,laa
+PLAIN,la'au,laau
+PLAIN,kiʻi,kii
+PLAIN,PCl,phosphorus mono chloride
+PLAIN,weds,wednesday
+PLAIN,NoV,november
+PLAIN,Al3O8,aluminium oxide
+PLAIN,mIn,minute
+PLAIN,Cl2O4,di chlorine tetroxide
+PLAIN,paʻao,paao
+PLAIN,O(O,oxygen monoxide
+PLAIN,MTNS,mountains
+PLAIN,MINS,minutes
+PLAIN,Na2O9,sodium oxide
+PLAIN,NaO,sodium oxide
+PLAIN,CUZ,cause
+PLAIN,Al2O4,aluminium oxide
+PLAIN,PREV,previous
+PLAIN,SNO3),sulphur mono nitrate
+PLAIN,PbO),lead two oxide
+PLAIN,MgO2,magnesium oxide
+PLAIN,vly,valley
+PLAIN,VLY,valley
+PLAIN,nO,number
+PLAIN,P2(O),di phosphorus monoxide
+PLAIN,Cl2O7,di chlorine heptoxide
+PLAIN,NCl,nitrogen mono chloride
+PLAIN,THURS,thursday
+PLAIN,:-o,shocked face sil
+PLAIN,coz,cause
+PLAIN,Wa'a,waa
+PLAIN,AlO6,aluminium oxide
+PLAIN,thx,thanks
+PLAIN,MIN,minute
+PLAIN,yR,year
+PLAIN,U'I,ui
+PLAIN,iʻini,iini
+PLAIN,nuʻu,nuu
+PLAIN,EtC,etcetera
+PLAIN,Na3Cl,sodium chloride
+PLAIN,brnch,branch
+PLAIN,ISAAK,izaak
+PLAIN,O16Cl,hexadeca oxygen mono chloride
+PLAIN,TNPK,turnpike
+PLAIN,MgCO3,magnesium carbonate
+PLAIN,VoL,volume
+PLAIN,O13Cl,trideca oxygen mono chloride
+PLAIN,wknd,weekend

@@ -1,0 +1,1072 @@
+class,before,after
+MONEY,$,dollars
+MONEY,$ million,million dollars
+MONEY,£ million,million pounds
+MONEY,US$,dollars
+MONEY,£,pounds
+MONEY,$M,million dollars
+MONEY,€ million,million euros
+MONEY,US$ million,million dollars
+MONEY,$ Million,million dollars
+MONEY,trillion VND,trillion vietnamese dongs
+MONEY,$bn,billion dollars
+MONEY,€m,million euros
+MONEY,$m,million dollars
+MONEY,USD,united states dollars
+MONEY,$ billion,billion dollars
+MONEY,€,euros
+MONEY,$b,billion dollars
+MONEY,£m,million pounds
+MONEY,DKK  million,million danish kroner
+MONEY,A$ million,million dollars
+MONEY,$ Billion,billion dollars
+MONEY,yuan,yuan
+MONEY,¥ million,zeromillion yen
+MONEY,Rs,rupees
+MONEY,CHF,swiss francs
+MONEY,€b,billion euros
+MONEY,NZ$,dollars
+MONEY,€million,million euros
+MONEY,€bn,billion euros
+MONEY,dollars,dollars
+MONEY,Rs  crore,crore rupees
+MONEY,rs,rupees
+MONEY,CZK,czech korunas
+MONEY,USD  Million,million united states dollars
+MONEY,$million,million dollars
+MONEY,CA$ billion,billion dollars
+MONEY,RSD,serbian dinars
+MONEY,MKMF,2005 MKMF
+MONEY,HK$,dollars
+MONEY,million won,million won
+MONEY,billion DKK,billion danish kroner
+MONEY,Rs  Bn,billion rupees
+MONEY,USD  Bn,billion united states dollars
+MONEY,FIM,finnish markkas
+MONEY,HUF  million,million hungarian forints
+MONEY,US$ Billion,billion dollars
+MONEY,billion dollar,billion dollars
+MONEY,million dollars,million dollars
+MONEY,US$M,million dollars
+MONEY,NOK  billion,billion norwegian kroner
+MONEY,Rs crores,sixcrore rupees
+MONEY,¥ billion,billion yen
+MONEY,£million,million pounds
+MONEY,U$S,dollars
+MONEY,ZAR,south african rands
+MONEY,US$ billion,billion dollars
+MONEY,HK$ million,million dollars
+MONEY,AED  billion,billion united arab emirates dirhams
+MONEY,DM,german marks
+MONEY,Mrs,million rupees
+MONEY,$B,billion dollars
+MONEY,BSD,bahamian dollars
+MONEY,ILS,israeli new sheqels
+MONEY,BEF,belgian francs
+MONEY,million yuan,million yuan
+MONEY,million EUR,million euros
+MONEY,£ billion,billion pounds
+MONEY,$K,dollars
+MONEY,NOK  million,million norwegian kroner
+MONEY,€ billion,billion euros
+MONEY,CYPE,CYP2E1
+MONEY,CYP,cypriot pounds
+MONEY,yen,yen
+MONEY,R$,reals
+MONEY,$  million,million dollars
+MONEY,million dollar,million dollars
+MONEY,$billion,billion dollars
+MONEY,Rs  cr,crore rupees
+MONEY,£M,million pounds
+MONEY,Dollar,dollars
+MONEY,billion Yuan,billion yuan
+MONEY,NZ$ million,million dollars
+MONEY,£k,pounds
+MONEY,S$ million,million dollars
+MONEY,million DKK,million danish kroner
+MONEY,million THB,million thai bahts
+MONEY,$ thousand,dollars
+MONEY,PHP,philippine pesos and centavos
+MONEY,billion dollars,billion dollars
+MONEY,A$,dollars
+MONEY,PLN m,million polish zlotys
+MONEY,won,won
+MONEY,SCR,seychelles rupees
+MONEY,$k,dollars
+MONEY,AU$,dollars
+MONEY,$ bn,billion dollars
+MONEY,R$ billion,billion reals
+MONEY,CA$ million,million dollars
+MONEY,INR,indian rupees
+MONEY,billion yuan,billion yuan
+MONEY,£ Million,million pounds
+MONEY,PHP  Million,million philippine pesos
+MONEY,$ trillion,trillion dollars
+MONEY,CAD,canadian dollars
+MONEY,IDR,indonesian rupiahs
+MONEY,¥,million yen
+MONEY,BWP,botswana pulas
+MONEY,A$m,million dollars
+MONEY,billion won,billion won
+MONEY,XCD,east caribbean dollars
+MONEY,USD billion,billion united states dollars
+MONEY,Rs Crores,crore rupees
+MONEY,USD million,million united states dollars
+MONEY,BMD,bermudian dollars
+MONEY,€ M,million euros
+MONEY,€  M,million euros
+MONEY,USD  million,million united states dollars
+MONEY,million PKR,million pakistani rupees
+MONEY,MATS,million austrian schillings
+MONEY,NOK,norwegian kroner
+MONEY,US$m,million dollars
+MONEY,CA$,dollars
+MONEY,SEK,swedish kronor
+MONEY,Trillion Dollar,trillion dollars
+MONEY,Rs crore,crore rupees
+MONEY,dollar,dollars
+MONEY,Rs Crore,crore rupees
+MONEY,EUR,euros
+MONEY,million SEK,million swedish kronor
+MONEY,million USD,million united states dollars
+MONEY,£ m,million pounds
+MONEY,€  million,million euros
+MONEY,billion USD,billion united states dollars
+MONEY,Rs  Cr,crore rupees
+MONEY,Rs  billion,billion rupees
+MONEY,DM billion,billion german marks
+MONEY,million KRW,million korean won
+MONEY,US$ m,million dollars
+MONEY,$Million,million dollars
+MONEY,BARS,billion argentine pesos
+MONEY,Won,won
+MONEY,GMD,gambian dalasis
+MONEY,EUR  billion,billion euros
+MONEY,£bn,billion pounds
+MONEY,A$bn,billion dollars
+MONEY,¥bn,billion yen
+MONEY,£  million,million pounds
+MONEY,€M,million euros
+MONEY,$ MILLION,million dollars
+MONEY,S$,dollars
+MONEY,£ trillion,trillion pounds
+MONEY,Rs cr,crore rupees
+MONEY,USDm,million united states dollars
+MONEY,billion yen,billion yen
+MONEY,€k,euros
+MONEY,$ b,billion dollars
+MONEY,billion AED,billion united arab emirates dirhams
+MONEY,NZ$ billion,billion dollars
+MONEY,Yuan,yuan
+MONEY,$ M,million dollars
+MONEY,AED,million united arab emirates dirhams
+MONEY,TK  cr,crore takas
+MONEY,INR  lakh,lakh indian rupees
+MONEY,Rs million,million rupees
+MONEY,UAH  million,million ukrainian hryvnias
+MONEY,$ m,million dollars
+MONEY,Rs  lacs,lakh rupees
+MONEY,KZL,zlotys
+MONEY,US$  million,million dollars
+MONEY,SBD,solomon islands dollars
+MONEY,SSP,south sudanese pounds
+MONEY,DM  million,million german marks
+MONEY,PGK,papua new guinean kina
+MONEY,LTL,lithuanian litass
+MONEY,ARS,argentine pesos
+MONEY,million PLN,million polish zlotys
+MONEY,DKK,danish kroner
+MONEY,THB,thai bahts
+MONEY,RS,rupees
+MONEY,BDT,bangladeshi takas
+MONEY,SHP,saint helena pounds
+MONEY,INR  lakhs,lakh indian rupees
+MONEY,SAR,saudi riyals
+MONEY,EUR m,million euros
+MONEY,R$ million,million reals
+MONEY,US$ trillion,trillion dollars
+MONEY,HK$ billion,billion dollars
+MONEY,$T,trillion dollars
+MONEY,GBPM,million british pounds
+MONEY,£b,billion pounds
+MONEY,A$million,million dollars
+MONEY,US$  billion,billion dollars
+MONEY,Million Dollar,million dollars
+MONEY,CAD million,million canadian dollars
+MONEY,GBP,british pounds
+MONEY,Rs  million,million rupees
+MONEY,million DM,million german marks
+MONEY,US$ Million,million dollars
+MONEY,€ MILLION,million euros
+MONEY,M PLN,million polish zlotys
+MONEY,$ Trillion,trillion dollars
+MONEY,US$ BILLION,billion dollars
+MONEY,DM  billion,billion german marks
+MONEY,Billion Yen,billion yen
+MONEY,CRC,costa rican colons
+MONEY,Rs  lakh,lakh rupees
+MONEY,NT$ billion,billion dollars
+MONEY,trillion won,trillion won
+MONEY,INR  crore,crore indian rupees
+MONEY,MKMF,sil
+MONEY,CYPE,sil
+MONEY,A$ Million,million dollars
+MONEY,CVE,cape verde escudos
+MONEY,XPT,platinum ounces
+MONEY,€K,euros
+MONEY,ISK,icelandic kronur
+MONEY,crore INR,crore indian rupees
+MONEY,million yen,million yen
+MONEY,billion EUR,billion euros
+MONEY,million €,million euros
+MONEY,US$K,dollars
+MONEY,UGX Billion,billion ugandan shillings
+MONEY,USD  trillion,trillion united states dollars
+MONEY,¥ Million,million yen
+MONEY,GNF,guinean franc
+MONEY,BBD,barbados dollars
+MONEY,SKK,slovak korunas
+MONEY,EC$m,million dollars
+MONEY,LKR million,million sri lanka rupees
+MONEY,A$ billion,billion dollars
+MONEY,US$million,million dollars
+MONEY,NT$ million,million dollars
+MONEY,¥  trillion,trillion yen
+MONEY,zl,zlotys
+MONEY,$US,dollars
+MONEY,$  m,million dollars
+MONEY,ATS,austrian schillings and groschen
+MONEY,million NOK,million norwegian kroner
+MONEY,£MILLION,million pounds
+MONEY,GBP m,million british pounds
+MONEY,Yen,yen
+MONEY,million US$,million dollars
+MONEY,USD m,million united states dollars
+MONEY,million GBP,million british pounds
+MONEY,Rs bn,billion rupees
+MONEY,CHF million,million swiss francs
+MONEY,USD Billion,billion united states dollars
+MONEY,HKD,hong kong dollars
+MONEY,DM A,german marks
+MONEY,£B,billion pounds
+MONEY,€ Million,million euros
+MONEY,AZN  million,million azerbaijani manats
+MONEY,m€,million euros
+MONEY,USD  billion,billion united states dollars
+MONEY,MVR  million,million maldivian rufiyaas
+MONEY,ZL,zlotys
+MONEY,million Dollars,million dollars
+MONEY,thousand CHF,swiss francs
+MONEY,Billion Dollar,billion dollars
+MONEY,CHF  million,million swiss francs
+MONEY,£K,pounds
+MONEY,Rs m,million rupees
+MONEY,$  billion,billion dollars
+MONEY,ℳ,marks
+MONEY,VND billion,billion vietnamese dongs
+MONEY,SDG,sudanese pounds
+MONEY,Dollars,dollars
+MONEY,NZD  million,million new zealand dollars
+MONEY,DKK  billion,billion danish kroner
+MONEY,€ Billion,billion euros
+MONEY,$US million,million dollars
+MONEY,BZ$ million,million dollars
+MONEY,SEK bn,billion swedish kronor
+MONEY,SEK  billion,billion swedish kronor
+MONEY,CYPB,billion cypriot pounds
+MONEY,million TZS,million tanzanian shillings
+MONEY,NPR,nepalese rupees
+MONEY,million AED,million united arab emirates dirhams
+MONEY,AWG,aruban florins
+MONEY,AU$ million,million dollars
+MONEY,PKR,pakistani rupees
+MONEY,MRO,mauritanian ouguiyas
+MONEY,CZK  billion,billion czech korunas
+MONEY,INR crore,crore indian rupees
+MONEY,AED million,million united arab emirates dirhams
+MONEY,Rs  b,billion rupees
+MONEY,NZD,new zealand dollars
+MONEY,MOP,macanese patacas
+MONEY,KRW,million korean won
+MONEY,T$ thousand,pa
+MONEY,£billion,billion pounds
+MONEY,billion ¥,billion yen
+MONEY,S$ billion,billion dollars
+MONEY,Rs Cr,crore rupees
+MONEY,Rs  crores,crore rupees
+MONEY,B€,billion euros
+MONEY,EUR  million,million euros
+MONEY,GBP  million,million british pounds
+MONEY,MOP$,patacas
+MONEY,PLN,polish zlotys
+MONEY,lakh INR,lakh indian rupees
+MONEY,CLP,chilean pesos
+MONEY,RD$,pesos
+MONEY,USD  thousand,united states dollars
+MONEY,Tk  crore,crore takas
+MONEY,Million Yen,million yen
+MONEY,US$bn,billion dollars
+MONEY,EGP,egyptian pounds
+MONEY,$US  million,million dollars
+MONEY,$ BILLION,billion dollars
+MONEY,AED  million,million united arab emirates dirhams
+MONEY,K won,won
+MONEY,SGD,singapore dollars
+MONEY,Million €,million euros
+MONEY,trillion AED,trillion united arab emirates dirhams
+MONEY,MVR,maldivian rufiyaas
+MONEY,MYR  million,million malaysian ringgit
+MONEY,€ m,million euros
+MONEY,NT$,dollars
+MONEY,Tk  lakh,threelakh takas
+MONEY,INR  million,million indian rupees
+MONEY,$tn,trillion dollars
+MONEY,MCF,monegasque francs
+MONEY,NLG,million netherlands guilders
+MONEY,IRR,iranian rials
+MONEY,Tk,takas and paise
+MONEY,KMF,sil
+MONEY,NAD,namibian dollars
+MONEY,T$ billion,billion pa
+MONEY,KES billion,onebillion kenyan shillings
+MONEY,BDT  million,million bangladeshi takas
+MONEY,HUF,hungarian forints
+MONEY,US$ thousand,dollars
+MONEY,NPRB,billion nepalese rupees
+MONEY,¥ trillion,trillion yen
+MONEY,SARB,billion saudi riyals
+MONEY,BDT  billion,billion bangladeshi takas
+MONEY,EC$ million,million dollars
+MONEY,UAH  billion,billion ukrainian hryvnias
+MONEY,SLL,sierra leonean leones
+MONEY,M EUR,million euros
+MONEY,GRD,greek drachmas
+MONEY,HK$million,million dollars
+MONEY,PHP  million,million philippine pesos
+MONEY,NGN billion,billion nigerian nairas
+MONEY,JPY,japanese yen
+MONEY,NOKm,million norwegian kroner
+MONEY,VND trillion,trillion vietnamese dongs
+MONEY,HRK,croatian kunas
+MONEY,thousand LTL,lithuanian litass
+MONEY,PTE,portuguese escudos
+MONEY,£ T,trillion pounds
+MONEY,Tk cr,crore takas
+MONEY,NZ$m,million dollars
+MONEY,INR  billion,billion indian rupees
+MONEY,UAH,million ukrainian hryvnias
+MONEY,Lakhs Rs,lakh rupees
+MONEY,billion SEK,billion swedish kronor
+MONEY,INRbillion,billion indian rupees
+MONEY,THB  billion,billion thai bahts
+MONEY,INR  cr,crore indian rupees
+MONEY,AFN,million afghan afghanis
+MONEY,PHP million,million philippine pesos
+MONEY,HUF  billion,billion hungarian forints
+MONEY,million INR,million indian rupees
+MONEY,EUR  Million,million euros
+MONEY,US$  Million,million dollars
+MONEY,USD  Billion,billion united states dollars
+MONEY,¥  billion,billion yen
+MONEY,WST,samoan talas
+MONEY,Rs  Crores,fivecrore rupees
+MONEY,Rs k,rupees
+MONEY,Million dollar,million dollars
+MONEY,$A,dollars
+MONEY,INR  crores,crore indian rupees
+MONEY,M $,million dollars
+MONEY,trillion yuan,trillion yuan
+MONEY,US$b,billion dollars
+MONEY,billion CNY,billion chinese yuan
+MONEY,b yuan,billion yuan
+MONEY,NOK  Million,million norwegian kroner
+MONEY,trillion KES,trillion kenyan shillings
+MONEY,Million Won,million won
+MONEY,$ B,billion dollars
+MONEY,BYR,belarusian rubles
+MONEY,billion FRF,billion french francs
+MONEY,US$trillion,trillion dollars
+MONEY,HKD  Bn,billion hong kong dollars
+MONEY,VAL,vatican liras
+MONEY,CHF  billion,billion swiss francs
+MONEY,SYP,syrian pounds
+MONEY,AU$bn,billion dollars
+MONEY,VND  million,million million vietnamese dongs
+MONEY,$A million,million dollars
+MONEY,Million dollars,million dollars
+MONEY,ANG,netherlands antillean guilders
+MONEY,RS CRORE,crore rupees
+MONEY,LBP,lebanese pound
+MONEY,MYR,malaysian ringgit
+MONEY,S$k,dollars
+MONEY,Million USD,million united states dollars
+MONEY,HRK  billion,billion croatian kunas
+MONEY,$BN,billion dollars
+MONEY,SI$,dollars
+MONEY,GBP million,million british pounds
+MONEY,BRL  million,million brazilian reals
+MONEY,R$ trillion,trillion reals
+MONEY,GHS,ghanaian cedi and pesewas
+MONEY,trillion dollars,trillion dollars
+MONEY,rs  crore,crore rupees
+MONEY,ETB,ethiopian birr
+MONEY,INR  Crores,crore indian rupees
+MONEY,lakhs INR,lakh indian rupees
+MONEY,bn DM,billion german marks
+MONEY,Lac Rs,lakh rupees
+MONEY,PGK million,million papua new guinean kinas
+MONEY,$USm,million dollars
+MONEY,$US  Billion,billion dollars
+MONEY,€ bn,billion euros
+MONEY,£ thousand,pounds
+MONEY,Rs lacs,lakh rupees
+MONEY,Billion USD,billion united states dollars
+MONEY,€ trillion,trillion euros
+MONEY,AZN,azerbaijani manats
+MONEY,USDB,billion united states dollars
+MONEY,S$b,billion dollars
+MONEY,bn USD,billion united states dollars
+MONEY,USD  bn,billion united states dollars
+MONEY,US$B,billion dollars
+MONEY,NOK m,million norwegian kroner
+MONEY,XAG,silver ounces
+MONEY,AED billion,billion united arab emirates dirhams
+MONEY,Rs  lakhs,lakh rupees
+MONEY,dollars,million dollars
+MONEY,billion INR,fivebillion indian rupees
+MONEY,Rs,million rupees
+MONEY,u$s,dollars
+MONEY,M€,million euros
+MONEY,AUD,australian dollars
+MONEY,¥ million,million yen
+MONEY,EUR,euro cents
+MONEY,Rs  Crore,ninecrore rupees
+MONEY,US$k,dollars
+MONEY,HK$ k,dollars
+MONEY,A$ billion,fourbillion dollars
+MONEY,Rs crore,twocrore rupees
+MONEY,BIF,burundian francs
+MONEY,INR  Trillion,trillion indian rupees
+MONEY,MXN,mexican pesos
+MONEY,LBP,lebanese pounds
+MONEY,JPY,million japanese yen
+MONEY,ILS,israeli new sheqel
+MONEY,billion VND,billion vietnamese dongs
+MONEY,PHP,philippine pesos
+MONEY,USDbn,billion united states dollars
+MONEY,dollar,million dollars
+MONEY,Tk,takas
+MONEY,million AZN,million azerbaijani manats
+MONEY,Kwon,won
+MONEY,million Yen,million yen
+MONEY,LKR,sri lanka rupees
+MONEY,A$M,million dollars
+MONEY,Rs  Crores,crore rupees
+MONEY,Rs K,rupees
+MONEY,KES,kenyan shillings
+MONEY,Rs  lac,lakh rupees
+MONEY,billion US$,billion dollars
+MONEY,MNT,mongolian tugriks
+MONEY,¥,yen
+MONEY,€Bn,billion euros
+MONEY,ATS,austrian schillings
+MONEY,GBP BN,billion british pounds
+MONEY,INR  Cr,crore indian rupees
+MONEY,VEF,venezuelan bolivar fuertes
+MONEY,HK$M,million dollars
+MONEY,MOP  billion,billion macanese patacas
+MONEY,SML,sammarinese liras
+MONEY,million RSD,million serbian dinars
+MONEY,AOA,angolan kwanza
+MONEY,LAK,lao kips
+MONEY,$Bn,billion dollars
+MONEY,£ MILLION,million pounds
+MONEY,MOP$,avos
+MONEY,BAM,bosnia and herzegovina convertible marks
+MONEY,BGN,bulgarian levs
+MONEY,KHR,cambodian riels
+MONEY,$US  billion,billion dollars
+MONEY,UAH,ukrainian hryvnias
+MONEY,SEK  million,million swedish kronor
+MONEY,HNL,honduran lempiras
+MONEY,G$,dollars
+MONEY,$HK,dollars
+MONEY,S$m,million dollars
+MONEY,US$ bn,billion dollars
+MONEY,ZL,billion million zlotys and grosz
+MONEY,$  Bn,billion dollars
+MONEY,ZAR  million,million south african rands
+MONEY,TWD,new taiwan dollars
+MONEY,K USD,united states dollars
+MONEY,M USD,million united states dollars
+MONEY,R$M,million reals
+MONEY,HK$m,million dollars
+MONEY,OMR,omani rials
+MONEY,QAR  million,million qatari rials
+MONEY,Rs  Lac,threelakh rupees
+MONEY,$A billion,billion dollars
+MONEY,billion$,billion dollars
+MONEY,£m A,million pounds
+MONEY,$Am,million dollars
+MONEY,EUR Million,million euros
+MONEY,m dollars,million dollars
+MONEY,TRS,trillion rupees
+MONEY,trillion yen,trillion yen
+MONEY,$ Bn,billion dollars
+MONEY,US$Bn,billion dollars
+MONEY,million $,million dollars
+MONEY,R$  million,million reals
+MONEY,JA$ million,million dollars
+MONEY,PKR  billion,billion pakistani rupees
+MONEY,million ¥,million yen
+MONEY,EUR billion,billion euros
+MONEY,B$m,million dollars
+MONEY,PLN billion,billion polish zlotys
+MONEY,SRD,surinamese dollars and cents
+MONEY,INR  Billion,billion indian rupees
+MONEY,billion ISK,billion icelandic kronur
+MONEY,€  bn,billion euros
+MONEY,M$,million dollars
+MONEY,VND,million vietnamese dongs
+MONEY,KRW,korean won
+MONEY,GBPm,million british pounds
+MONEY,€  Million,million euros
+MONEY,Rs Bn,billion rupees
+MONEY,BUSD,billion united states dollars
+MONEY,YEN,yen
+MONEY,CNY Billion,billion chinese yuan
+MONEY,B$,dollars
+MONEY,SEK million,million swedish kronor
+MONEY,DEM,german marks
+MONEY,MILLION USD,million united states dollars
+MONEY,MDM,million german marks
+MONEY,million Yuan,million yuan
+MONEY,NGN  billion,billion nigerian nairas
+MONEY,Rs lakhs,lakh rupees
+MONEY,Rs billion,billion rupees
+MONEY,SEK m,million swedish kronor
+MONEY,Billion Yuan,billion yuan
+MONEY,$US Million,million dollars
+MONEY,DMmillion,million german marks
+MONEY,thousand dollars,dollars
+MONEY,Rs crores,crore rupees
+MONEY,£ BILLION,onebillion pounds
+MONEY,LKR  million,million sri lanka rupees
+MONEY,CNY,chinese yuan
+MONEY,NZ$bn,billion dollars
+MONEY,MYR million,million malaysian ringgit
+MONEY,¥million,million yen
+MONEY,MDL,moldovan leus
+MONEY,Rs lakh,lakh rupees
+MONEY,PKR,pakistani rupees and paisa
+MONEY,BZ$,dollars
+MONEY,€  billion,billion euros
+MONEY,$NZ million,million dollars
+MONEY,VND  trillion,trillion vietnamese dongs
+MONEY,CNY  billion,billion chinese yuan
+MONEY,BDS$ million,million dollars
+MONEY,billion NOK,billion norwegian kroner
+MONEY,JPY  billion,billion japanese yen
+MONEY,$  thousand,dollars
+MONEY,ESP,spanish pesetas
+MONEY,BGN  million,million bulgarian levs
+MONEY,PHP trillion,trillion philippine pesos
+MONEY,M €,million euros
+MONEY,UZS,uzbekistan soms
+MONEY,k DKK,danish kroner
+MONEY,G$ million,million dollars
+MONEY,Rs  thousand,rupees
+MONEY,Tk  lakh,lakh takas
+MONEY,£ Billion,billion pounds
+MONEY,m €,million euros
+MONEY,SIT,slovenian tolar
+MONEY,PLN  million,million polish zlotys
+MONEY,EUR bn,billion euros
+MONEY,MYR billion,billion malaysian ringgit
+MONEY,TK,takas
+MONEY,XAF,sil
+MONEY,CNY  million,million chinese yuan
+MONEY,LAKB,billion lao kips
+MONEY,billion LYD,billion libyan dinars
+MONEY,Rs Lakh,lakh rupees
+MONEY,£Million,million pounds
+MONEY,KRW  trillion,trillion korean won
+MONEY,million VND,million vietnamese dongs
+MONEY,Rs  Lakh,lakh rupees
+MONEY,€B,billion euros
+MONEY,AU$m,million dollars
+MONEY,us$ million,million dollars
+MONEY,US$T,trillion dollars
+MONEY,DEM  million,million german marks
+MONEY,AUD  million,million australian dollars
+MONEY,million CZK,million czech korunas
+MONEY,£  TRILLION,trillion pounds
+MONEY,TMNT,trillion mongolian tugriks
+MONEY,AU$ billion,billion dollars
+MONEY,BWPM,million botswana pulas
+MONEY,DMM,million german marks
+MONEY,BRL,brazilian reals
+MONEY,billion GNF,billion guinean francs
+MONEY,M DM,million german marks
+MONEY,NGN,million nigerian nairas
+MONEY,A$  million,million dollars
+MONEY,S$bn,billion dollars
+MONEY,LVL,latvian latss
+MONEY,€billion,billion euros
+MONEY,MTL,maltese liras
+MONEY,€,million euros
+MONEY,US$,million dollars
+MONEY,PGK  million,million papua new guinean kinas
+MONEY,billion HUF,billion hungarian forints
+MONEY,Million Dollars,million dollars
+MONEY,NGN,nigerian nairas
+MONEY,INR  Lakhs,lakh indian rupees
+MONEY,US$  trillion,trillion dollars
+MONEY,billion PHP,billion philippine pesos
+MONEY,KRW  billion,billion korean won
+MONEY,£BN,billion pounds
+MONEY,JPY  million,million japanese yen
+MONEY,USD Million,million united states dollars
+MONEY,us$m,million dollars
+MONEY,KESbn,billion kenyan shillings
+MONEY,SEK,million swedish kronor
+MONEY,zl,zloty
+MONEY,EUR  m,million euros
+MONEY,Rs crores,ninecrore rupees
+MONEY,$US,million dollars
+MONEY,Rs Lakhs,lakh rupees
+MONEY,billion PLN,billion polish zlotys
+MONEY,HK$bn,billion dollars
+MONEY,MOP,macanese pataca
+MONEY,trillion yuan,ninetrillion yuan
+MONEY,DM million,million german marks
+MONEY,thousand USD,united states dollars
+MONEY,million rs,million rupees
+MONEY,EURm,million euros
+MONEY,BMDM,million bermudian dollars
+MONEY,AED,united arab emirates dirhams
+MONEY,HK$b,billion dollars
+MONEY,CNY,million chinese yuan
+MONEY,MYR,million malaysian ringgit
+MONEY,SGD  million,million singapore dollars
+MONEY,CNY million,million chinese yuan
+MONEY,FIM  million,million finnish markkas
+MONEY,m dollar,million dollars
+MONEY,million MKD,million macedonian denars
+MONEY,EEK,estonian kroon
+MONEY,M Yen,million yen
+MONEY,$  Million,million dollars
+MONEY,PHP  billion,billion philippine pesos
+MONEY,HK$  million,million dollars
+MONEY,DOP,dominican pesos
+MONEY,ZARmillion,million south african rands
+MONEY,Rs  Million,million rupees
+MONEY,CYP,cypriot pound
+MONEY,ITL,million italian liras
+MONEY,MBGN,million bulgarian levs
+MONEY,A$ Billion,billion dollars
+MONEY,EURk,euros
+MONEY,LKR billion,billion sri lanka rupees
+MONEY,Billion ISK,billion icelandic kronur
+MONEY,$NZ  million,million dollars
+MONEY,£ million A,million pounds
+MONEY,CDF,congolese francs
+MONEY,billion Won,billion won
+MONEY,MARS,million argentine pesos
+MONEY,LSL,lesotho lotis
+MONEY,B$,billion dollars
+MONEY,US$  Billion,billion dollars
+MONEY,CNY billion,billion chinese yuan
+MONEY,ISK  million,million icelandic kronur
+MONEY,Rs  m,million rupees
+MONEY,Rs  Lakhs,lakh rupees
+MONEY,HK$k,dollars
+MONEY,Yen,billion yen
+MONEY,USD  m,million united states dollars
+MONEY,FIMB,billion finnish markkas
+MONEY,PGK billion,billion papua new guinean kinas
+MONEY,AED b,billion united arab emirates dirhams
+MONEY,USD K,united states dollars
+MONEY,NT$M,million dollars
+MONEY,JPY billion,billion japanese yen
+MONEY,EGP  billion,billion egyptian pounds
+MONEY,EURB,billion euros
+MONEY,R$  billion,billion reals
+MONEY,CHFm,million swiss francs
+MONEY,Yuan,million yuan
+MONEY,TMT,turkmenistani manats
+MONEY,HK$  billion,billion dollars
+MONEY,HUF M,million hungarian forints
+MONEY,million CHF,million swiss francs
+MONEY,DM  T,trillion german marks
+MONEY,RD$ million,million pesos
+MONEY,RWF  billion,billion rwandan francs
+MONEY,MTLb,billion maltese liras
+MONEY,INR  Crore,crore indian rupees
+MONEY,¥ bn,billion yen
+MONEY,UGX  trillion,trillion ugandan shillings
+MONEY,UAH million,million ukrainian hryvnias
+MONEY,$US billion,billion dollars
+MONEY,billion KRW,billion korean won
+MONEY,US$ MILLION,million dollars
+MONEY,million PHP,million philippine pesos
+MONEY,EUR million,million euros
+MONEY,INR  Trillion,twotrillion indian rupees
+MONEY,EUR  bn,billion euros
+MONEY,USD k,united states dollars
+MONEY,HKD  million,million hong kong dollars
+MONEY,ERN,eritrean nakfa
+MONEY,KES  million,million kenyan shillings
+MONEY,FIM  billion,billion finnish markkas
+MONEY,Rsbn,billion rupees
+MONEY,MUSD,million united states dollars
+MONEY,JMD,jamaican dollars
+MONEY,€  MILLION,million euros
+MONEY,billion KES,billion kenyan shillings
+MONEY,NZ$M,million dollars
+MONEY,MYR  billion,billion malaysian ringgit
+MONEY,S/,centimos
+MONEY,ZL,zloty
+MONEY,Rs  bn,billion rupees
+MONEY,billion TWD,billion new taiwan dollars
+MONEY,US$Million,million dollars
+MONEY,PHP,million philippine pesos
+MONEY,BSD,bahamian dollars and cents
+MONEY,million HUF,million hungarian forints
+MONEY,B$,million dollars
+MONEY,€ billion,onebillion euros
+MONEY,AFN,afghan afghanis
+MONEY,million yen,sixmillion yen
+MONEY,US$  Trillion,trillion dollars
+MONEY,FRF,million french francs
+MONEY,GBP,british pounds and pence
+MONEY,EUR M,million euros
+MONEY,TZS,tanzanian shillings
+MONEY,ETB,ethiopian birrs
+MONEY,£ trillion,eighttrillion pounds
+MONEY,UGX,ugandan shillings
+MONEY,million zl,million zlotys
+MONEY,£ bn,billion pounds
+MONEY,US$ M,million dollars
+MONEY,TRs,trillion rupees
+MONEY,R$k,reals
+MONEY,LTL  million,million lithuanian litass
+MONEY,$HK  million,million dollars
+MONEY,руб,kopek
+MONEY,MOP billion,billion macanese patacas
+MONEY,DOLLARS,dollars
+MONEY,Tk b,billion takas
+MONEY,EUR  Billion,billion euros
+MONEY,S$M,million dollars
+MONEY,DJF,djiboutian francs
+MONEY,Bn €,billion euros
+MONEY,CZK,czech korunas and halers
+MONEY,KRW  billion,million billion korean won
+MONEY,Bn€,billion euros
+MONEY,PKR  million,million pakistani rupees
+MONEY,billion PHP,fivebillion philippine pesos
+MONEY,billion AZN,billion azerbaijani manats
+MONEY,NPR,nepalese rupee
+MONEY,$  B,billion dollars
+MONEY,INR million,million indian rupees
+MONEY,Tk  billion,billion takas
+MONEY,HRK  million,million croatian kunas
+MONEY,NT$bn,billion dollars
+MONEY,Rs  trillion,trillion rupees
+MONEY,KWD  million,million kuwaiti dinars
+MONEY,CAD billion,billion canadian dollars
+MONEY,$A,million dollars
+MONEY,AU$,dollars and cents
+MONEY,Zl,zlotys
+MONEY,S$  million,million dollars
+MONEY,RSD million,million serbian dinars
+MONEY,million DZD,million algerian dinars
+MONEY,ZAR billion,billion south african rands
+MONEY,FJ$ million,million dollars
+MONEY,EC$,dollars
+MONEY,THB million,million thai bahts
+MONEY,SGD  billion,billion singapore dollars
+MONEY,THB  million,million thai bahts
+MONEY,Million DM,million german marks
+MONEY,Tk  million,million takas
+MONEY,billion JPY,billion japanese yen
+MONEY,IEP,irish pounds
+MONEY,NLG million,million netherlands guilders
+MONEY,Rs  Crore,crore rupees
+MONEY,VND  billion,billion vietnamese dongs
+MONEY,KES billion,billion kenyan shillings
+MONEY,SHP,saint helena pound
+MONEY,¥b,billion yen
+MONEY,Tk crore,crore takas
+MONEY,Rs lac,lakh rupees
+MONEY,Million EUR,million euros
+MONEY,bn AZN,billion azerbaijani manats
+MONEY,BDS$,dollars
+MONEY,ANG,million netherlands antillean guilders
+MONEY,USDBn,billion united states dollars
+MONEY,billion KZT,billion kazakhstaniges
+MONEY,VUV million,million vanuatu vatus
+MONEY,CZK  million,million czech korunas
+MONEY,TND,tunisian dinars
+MONEY,J$ million,million dollars
+MONEY,$trillion,trillion dollars
+MONEY,£Bn,billion pounds
+MONEY,billion €,billion euros
+MONEY,RWF,rwandan franc
+MONEY,EURM,million euros
+MONEY,bn dollars,billion dollars
+MONEY,USD bn,billion united states dollars
+MONEY,MVR  billion,billion maldivian rufiyaas
+MONEY,crores Rs,crore rupees
+MONEY,k€,euros
+MONEY,$AM,million dollars
+MONEY,t $,trillion dollars
+MONEY,CZK m,million czech korunas
+MONEY,$  bn,billion dollars
+MONEY,DM trillion,trillion german marks
+MONEY,ITL,italian liras
+MONEY,MXN  million,million mexican pesos
+MONEY,PHP billion,billion philippine pesos
+MONEY,SDG billion,billion sudanese pounds
+MONEY,B won,billion won
+MONEY,EURbn,billion euros
+MONEY,million Dollar,million dollars
+MONEY,PHP M,million philippine pesos
+MONEY,$  Billion,billion dollars
+MONEY,AED Million,million united arab emirates dirhams
+MONEY,$HK million,million dollars
+MONEY,MCRC,million costa rican colons
+MONEY,£E,pounds
+MONEY,million HKD,million hong kong dollars
+MONEY,UAH   thousand,ukrainian hryvnias
+MONEY,$Au,dollars
+MONEY,LTL  billion,billion lithuanian litass
+MONEY,CAD  million,million canadian dollars
+MONEY,m USD,million united states dollars
+MONEY,crores INR,crore indian rupees
+MONEY,R$,million reals
+MONEY,$NZ,dollars
+MONEY,dollar,dollar
+MONEY,billion PKR,billion pakistani rupees
+MONEY,$NZ billion,billion dollars
+MONEY,INR,indian rupees and paise
+MONEY,¥ billion,fourbillion yen
+MONEY,MOP million,million macanese patacas
+MONEY,PGK,papua new guinean kinas
+MONEY,trillion won,onetrillion won
+MONEY,million HRK,million croatian kunas
+MONEY,RD$M,million pesos
+MONEY,m EUR,million euros
+MONEY,m CHF,million swiss francs
+MONEY,PKR  Billion,billion pakistani rupees
+MONEY,HK$,million dollars
+MONEY,AED trillion,trillion united arab emirates dirhams
+MONEY,GHS,ghanaian cedis
+MONEY,Yen,sil
+MONEY,ZAR  Billion,billion south african rands
+MONEY,SKK,million slovak korunas
+MONEY,PAB,panamanian balboas
+MONEY,NIO,cordoba centavos
+MONEY,SGD million,million singapore dollars
+MONEY,GBP billion,billion british pounds
+MONEY,BRL Million,million brazilian reals
+MONEY,KZT,kazakhstanige and tiin
+MONEY,Rscrore,crore rupees
+MONEY,million JPY,million japanese yen
+MONEY,S$ Billion,billion dollars
+MONEY,AOA,angolan kwanzas
+MONEY,billion UAH,billion ukrainian hryvnias
+MONEY,€ BILLION,billion euros
+MONEY,AUD,sil
+MONEY,PHP Million,million philippine pesos
+MONEY,MOP$,pataca
+MONEY,Rs  lacs,onelakh rupees
+MONEY,$NZm,million dollars
+MONEY,€  thousand,euros
+MONEY,¥M,million yen
+MONEY,KRW  Billion,billion korean won
+MONEY,BRL,brazilian reals and centavos
+MONEY,E£,pounds
+MONEY,billion DM,billion german marks
+MONEY,MXN,sil
+MONEY,a$,dollars
+MONEY,G$,dollar
+MONEY,million BAM,million bosnia and herzegovina convertible marks
+MONEY,LTL,lithuanian litass and centsas
+MONEY,GBP  m,million british pounds
+MONEY,Tk tn,trillion takas
+MONEY,£tn,trillion pounds
+MONEY,AU$ m,million dollars
+MONEY,GBP  billion,billion british pounds
+MONEY,TWST,trillion samoan talas
+MONEY,RD$ billion,billion pesos
+MONEY,IDR  billion,billion indonesian rupiahs
+MONEY,KES,billion million kenyan shillings and cents
+MONEY,NT$m,million dollars
+MONEY,USDM,million united states dollars
+MONEY,Million Yuan,million yuan
+MONEY,INR lakhs,lakh indian rupees
+MONEY,CNY billion,sevenbillion chinese yuan
+MONEY,$Ab,billion dollars
+MONEY,billion CHF,billion swiss francs
+MONEY,Rsk,rupees
+MONEY,Crore Rs,crore rupees
+MONEY,m$,million dollars
+MONEY,GNF,guinean francs
+MONEY,CLP  billion,billion chilean pesos
+MONEY,billion MYR,billion malaysian ringgit
+MONEY,LVL  million,million latvian latss
+MONEY,DKK million,million danish kroner
+MONEY,LYD  million,million libyan dinars
+MONEY,SAR billion,billion saudi riyals
+MONEY,RS  Crores,crore rupees
+MONEY,NT$ trillion,trillion dollars
+MONEY,$ Billion,onebillion dollars
+MONEY,Rs,rupees and paise
+MONEY,B GBP,billion british pounds
+MONEY,KES  billion,billion kenyan shillings
+MONEY,NOK,norwegian kroner and ore
+MONEY,HKDmillion,million hong kong dollars
+MONEY,NPR  billion,billion nepalese rupees
+MONEY,HK$,dollars and cents
+MONEY,DEM M,million german marks
+MONEY,Yen,million yen
+MONEY,billion yen,fivebillion yen
+MONEY,R$  thousand,reals
+MONEY,G$,dollar and cents
+MONEY,M$US,million dollars
+MONEY,bn yen,billion yen
+MONEY,A$b,billion dollars
+MONEY,S$ m,million dollars
+MONEY,S$million,million dollars
+MONEY,million EGP,million egyptian pounds
+MONEY,EUR  trillion,trillion euros
+MONEY,NOK billion,billion norwegian kroner
+MONEY,DKKbn,billion danish kroner
+MONEY,$BILLION,billion dollars
+MONEY,GBP Million,million british pounds
+MONEY,CA$  million,million dollars
+MONEY,JPY million,million japanese yen
+MONEY,PTE  billion,billion portuguese escudos
+MONEY,J$,dollars
+MONEY,$T million,million pa
+MONEY,AZN,azerbaijani manats and kopek
+MONEY,MMK,myanma kyats
+MONEY,$r,reals
+MONEY,HUF billion,billion hungarian forints
+MONEY,Billion Dollars,billion dollars
+MONEY,MILS,million israeli new sheqels
+MONEY,FRF,french francs
+MONEY,ZAR,south african rands and cents
+MONEY,Tk cr,sixcrore takas
+MONEY,KRW,billion million korean won
+MONEY,Rs  lacs,ninelakh rupees
+MONEY,SKK,slovak korunas and haliers
+MONEY,M dollars,million dollars
+MONEY,AEDbn,billion united arab emirates dirhams
+MONEY,NT$ Million,million dollars
+MONEY,BRS,billion rupees
+MONEY,M RS,million rupees
+MONEY,Million CHF,million swiss francs
+MONEY,RS  billion,billion rupees
+MONEY,€k A,euros
+MONEY,HKD million,million hong kong dollars
+MONEY,billion MDL,billion moldovan leus
+MONEY,TZS m,million tanzanian shillings
+MONEY,TZS bn,billion tanzanian shillings
+MONEY,$  MILLION,million dollars
+MONEY,USD b,billion united states dollars
+MONEY,million TWD,million new taiwan dollars
+MONEY,million ILS,million israeli new sheqels
+MONEY,tk,takas
+MONEY,Tk bn,billion takas
+MONEY,bn SEK,billion swedish kronor
+MONEY,MSSP,million south sudanese pounds
+MONEY,US$ Bn,billion dollars
+MONEY,TMRO,trillion mauritanian ouguiyas
+MONEY,CZK  thousand,czech korunas
+MONEY,AUD million,million australian dollars
+MONEY,billion tk,billion takas
+MONEY,IEP,irish pennies
+MONEY,MMCF,million monegasque francs
+MONEY,QAR bn,billion qatari rials
+MONEY,HKDb,billion hong kong dollars
+MONEY,$ crore,crore dollars
+MONEY,CZK bn,billion czech korunas
+MONEY,TTD,trinidad and tobago dollars
+MONEY,QAR  billion,billion qatari rials
+MONEY,NZ$bn,onebillion dollars
+MONEY,Lakhs USD,lakh united states dollars
+MONEY,CHF k,swiss francs
+MONEY,k HUF,hungarian forints
+MONEY,PKR,pakistani paise
+MONEY,THB,million thai bahts
+MONEY,HK$ Million,million dollars
+MONEY,Rscr,crore rupees
+MONEY,AEDm,million united arab emirates dirhams
+MONEY,INR bn,billion indian rupees
+MONEY,UGX M,million ugandan shillings
+MONEY,$NZbn,billion dollars
+MONEY,S$,dollar
+MONEY,MOP$,pataca and avos
+MONEY,Trillion Yen,trillion yen
+MONEY,MNOK,million norwegian kroner
+MONEY,NT$,million dollars
+MONEY,RD$,pesos and centavos
+MONEY,NT$  billion,billion dollars
+MONEY,billion $US,billion dollars
+MONEY,AED  thousand,united arab emirates dirhams
+MONEY,MKD,macedonian denars
+MONEY,AUD,australian dollar
+MONEY,RsCr,crore rupees
+MONEY,INR  crore,eightcrore indian rupees
+MONEY,ITL  billion,billion italian liras
+MONEY,Trs,trillion rupees
+MONEY,S$ Million,million dollars
+MONEY,I/,sil
+MONEY,ESP,million spanish pesetas
+MONEY,million ISK,million icelandic kronur
+MONEY,Trillion Yuan,trillion yuan
+MONEY,Rs  Lakh,fivelakh rupees
+MONEY,Billion INR,billion indian rupees
+MONEY,Tyen,trillion yen
+MONEY,Trillion Won,trillion won
+MONEY,$B I,billion dollars
+MONEY,M yen,million yen
+MONEY,LAKM,million lao kips
+MONEY,LBP  million,million lebanese pounds
+MONEY,NOK   million,million norwegian kroner
+MONEY,BILLION YEN,billion yen
+MONEY,QAR,qatari rials
+MONEY,AED  Million,million united arab emirates dirhams
+MONEY,SAR  million,million saudi riyals
+MONEY,thousand €,euros
+MONEY,million$,million dollars
+MONEY,¥  million,million yen
+MONEY,NOK M,million norwegian kroner
+MONEY,WON,won
+MONEY,FJD,fiji dollars
+MONEY,SEK  Million,million swedish kronor
+MONEY,million AUD,million australian dollars
+MONEY,bn US$,billion dollars
+MONEY,FRF  million,million french francs
+MONEY,BND,brunei dollars
+MONEY,million UGX,million ugandan shillings
+MONEY,SGD Million,million singapore dollars
+MONEY,Rs  CR,crore rupees
+MONEY,€ K,euros
+MONEY,Million US$,million dollars
+MONEY,Rs  Billion,billion rupees
+MONEY,PHP  billion,twobillion philippine pesos
+MONEY,m DM,million german marks
+MONEY,million BRL,million brazilian reals
+MONEY,USD M,million united states dollars
+MONEY,CHF bn,billion swiss francs
+MONEY,€ Trillion,trillion euros
+MONEY,trillion USD,trillion united states dollars
+MONEY,JOD  million,sil
+MONEY,£Billion,billion pounds
+MONEY,$us,dollar
+MONEY,THB trillion,trillion thai bahts
+MONEY,cr INR,crore indian rupees
+MONEY,£ M,pounds
